@@ -52,8 +52,6 @@ jobs:
 
     strategy:
       fail-fast: false
-      matrix:
-        modpack: ${{ fromJson(needs.parse-current-modpacks.outputs.modpack-folders) }}
 
     name: Handle Releases
 
@@ -61,7 +59,7 @@ jobs:
 
     defaults:
       run:
-        working-directory: ${{ matrix.modpack }}
+        working-directory: modpack
 
     permissions:
       contents: write
@@ -72,17 +70,10 @@ jobs:
         id: release-please
         uses: googleapis/release-please-action@v4
         with:
-          monorepo-tags: true
-          path: ${{ matrix.modpack }}
+          path: modpack
           release-type: simple
-          package-name: ${{ matrix.modpack }}
-          prerelease: true
-          changelog-types: >
-            [{"type":"feat","section":"★ Features","hidden":false},
-            {"type":"fix","section":"♻ Bug Fixes","hidden":false},
-            {"type":"mod","section":"☀ Modpack Changes","hidden":false},
-            {"type":"update","section":"⚘ Modpack Updates","hidden":false},
-            {"type":"chore","section":"⛭ Miscellaneous","hidden":true}]
+          config-file: release-please-config.json
+          manifest-file: .release-please-manifest.json
 
       - name: Parse tag from PR title
         uses: actions-ecosystem/action-regex-match@v2
@@ -101,7 +92,7 @@ jobs:
         uses: ./.github/actions/bump-pack
         with:
           release-tag: ${{ steps.version.outputs.match }}
-          modpack: ${{ matrix.modpack }}
+          modpack: modpack
           branch: ${{ fromJson(steps.release-please.outputs.pr).headBranchName }}
         if: ${{ steps.release-please.outputs.pr != '' }}
 
@@ -114,7 +105,7 @@ jobs:
         id: parse
         uses: ./.github/actions/parse
         with:
-          modpack: ${{ matrix.modpack }}
+          modpack: modpack
         if: ${{ steps.release-please.outputs.releases_created }}
 
       - name: Set Mod Vendors
@@ -128,7 +119,7 @@ jobs:
       - name: Build Modpack
         uses: ./.github/actions/build
         with:
-          modpack: ${{ matrix.modpack }}
+          modpack: modpack
           release-tag: ${{ steps.tag.outputs.tag }}
           build-modrinth: ${{ env.default-release-modrinth }}
           build-curse: ${{ env.default-release-curseforge }}
@@ -138,7 +129,7 @@ jobs:
       - name: Release Modpack to Vendors
         uses: ./.github/actions/release
         with:
-          modpack: ${{ matrix.modpack }}
+          modpack: modpack
           release-tag: ${{ steps.tag.outputs.tag }}
           loader: ${{ steps.parse.outputs.loader }}
           game-version: ${{ steps.parse.outputs.game-version }}

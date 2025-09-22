@@ -5,8 +5,8 @@
   "separate-pull-requests": true,
   "prerelease": true,
   "packages": {
-    "client": {
-      "path": "client",
+    "modpack": {
+      "path": "modpack",
       "release-type": "simple"
     }
   },

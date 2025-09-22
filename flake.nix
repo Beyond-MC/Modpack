@@ -7,7 +7,7 @@
       inputs.nixpkgs-lib.follows = "nixpkgs";
     };
     pre-commit-hooks = {
-      url = "github:cachix/pre-commit-hooks.nix";
+      url = "github:cachix/git-hooks.nix";
       inputs.nixpkgs.follows = "nixpkgs";
     };
   };
@@ -31,13 +31,14 @@
             alejandra.enable = true;
             deadnix.enable = true;
             prettier.enable = true;
-            markdownlint.enable = true;
           };
         };
         devShells.default = pkgs.mkShell {
-          packages = [
-            pkgs.git
-            pkgs.packwiz
+          packages = with pkgs; [
+            git
+            packwiz
+            prettier
+            markdownlint-cli
           ];
           shellHook = ''
             ${config.pre-commit.installationScript}

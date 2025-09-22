@@ -1,0 +1,28 @@
+{
+  "enabled": true,
+  "attributes": [
+    {
+      "attribute": "zoe:sabotage",
+      "amplifier": 0.5
+    },
+    {
+      "attribute": "minecraft:generic.movement_speed",
+      "amplifier": 0.01
+    },
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "amplifier": 1.0
+    },
+    {
+      "attribute": "forge:step_height_addition",
+      "amplifier": 0.1
+    },
+    {
+      "attribute": "forge:swim_speed",
+      "amplifier": -0.015
+    }
+  ],
+  "maxQuality": 0,
+  "humanityScaling": 2.0,
+  "update": true
+}

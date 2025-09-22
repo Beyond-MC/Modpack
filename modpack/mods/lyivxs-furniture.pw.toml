@@ -1,0 +1,13 @@
+name = "Furnection"
+filename = "ls_furniture-1.0.8-Forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CR0S3SGP/versions/mKJYZWFt/ls_furniture-1.0.8-Forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "d5585acc893a486d32a78c9ae6aff4ef32accc97586ee9d8e3df177427d6ab1a05f69b62d10676ecad91f94258aa81824192adf110c984538ef87a7fb140b723"
+
+[update]
+[update.modrinth]
+mod-id = "CR0S3SGP"
+version = "mKJYZWFt"

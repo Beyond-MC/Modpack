@@ -1,0 +1,16 @@
+# Permission for editing module data
+# These values are read-only - changing them here has no effect.
+# Always_Allowed: Non-operators can import this module
+# Never: This module cannot be imported
+moduleEditableReadOnly = {}
+
+# Permission for editing module data
+# Allowed: Non-operators can import this module, and it's imported by default
+# Operator: Operators can import this module using command flags
+[moduleEditable]
+	"switchy_teleport:spawn_point" = "OPERATOR"
+	"switchy_inventories:ender_chests" = "OPERATOR"
+	"switchy_inventories:experience" = "OPERATOR"
+	"switchy_inventories:inventories" = "OPERATOR"
+	"switchy_teleport:last_location" = "OPERATOR"
+

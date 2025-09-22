@@ -1,0 +1,13 @@
+name = "Sidekick"
+filename = "sidekick-forge-2.0.5+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/goA2JoBi/versions/OVBWwlVg/sidekick-forge-2.0.5%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "f2a8248832f63a28b07dfcb10e4d8448f2be4e7e3b7e1cdb268896d09c09edcfe9485cba52700d7fde04dcf10d094d81159ee01a40e7ec66e939a56ccbcedd01"
+
+[update]
+[update.modrinth]
+mod-id = "goA2JoBi"
+version = "OVBWwlVg"

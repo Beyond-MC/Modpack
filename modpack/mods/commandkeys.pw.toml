@@ -1,0 +1,13 @@
+name = "Command Keys"
+filename = "commandkeys-forge-2.3.11+1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/65UyswbY/versions/GDtrzbqL/commandkeys-forge-2.3.11%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "ff2a6789ac369e43bc333aa9ecb4c1458d9e0e7f57ecbe5a3a7b082e9dd652ee90f5c6043a31c76dac2b930c7541d081cab40a692010cffe6ca3983344076147"
+
+[update]
+[update.modrinth]
+mod-id = "65UyswbY"
+version = "GDtrzbqL"

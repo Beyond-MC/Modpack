@@ -1,0 +1,16 @@
+{
+  "enabled": true,
+  "attributes": [
+    {
+      "attribute": "zoe:volt",
+      "amplifier": 1.0
+    },
+    {
+      "attribute": "minecraft:generic.movement_speed",
+      "amplifier": 0.005
+    }
+  ],
+  "maxQuality": 0,
+  "humanityScaling": 1.2,
+  "update": true
+}

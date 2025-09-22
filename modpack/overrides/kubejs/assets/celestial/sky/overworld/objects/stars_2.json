@@ -1,0 +1,43 @@
+{
+  "solid_color": "ff8f71",
+  "display": {
+    "scale": "0",
+    "pos_x": "0",
+    "pos_y": "0",
+    "pos_z": "0",
+    "distance": "100"
+  },
+  "rotation": {
+    "degrees_x": "#skyAngle + 90",
+    "degrees_y": "0",
+    "degrees_z": "0",
+    "base_degrees_x": "-90",
+    "base_degrees_z": "-90"
+  },
+  "properties": {
+    "alpha": "((1 - #dayLight) * #(1 - rainAlpha))"
+  },
+  "populate": {
+    "count": 400,
+    "rotation": {
+      "min_degrees_x": 0,
+      "max_degrees_x": 360,
+      "min_degrees_y": 0,
+      "max_degrees_y": 360,
+      "min_degrees_z": 0,
+      "max_degrees_z": 360
+    },
+    "display": {
+      "min_scale": 0.01,
+      "max_scale": 0.165,
+      "min_pos_x": 0,
+      "max_pos_x": 0,
+      "min_pos_y": 0,
+      "max_pos_y": 0,
+      "min_pos_z": 0,
+      "max_pos_z": 0,
+      "min_distance": 150,
+      "max_distance": 150
+    }
+  }
+}

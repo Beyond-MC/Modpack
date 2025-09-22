@@ -1,0 +1,13 @@
+name = "ManyIdeas Doors"
+filename = "ManyIdeasDoors-1.20.1-1.2.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/B4U5vxjd/versions/YXmzB8z1/ManyIdeasDoors-1.20.1-1.2.3.jar"
+hash-format = "sha512"
+hash = "ffd830b71de6eda1595946b12a67d3c1a163959fbb25c4340889de9868b634fe7a2106e9383732715b0633d05e2531068fd02515b95aeb678ea7246b008093db"
+
+[update]
+[update.modrinth]
+mod-id = "B4U5vxjd"
+version = "YXmzB8z1"

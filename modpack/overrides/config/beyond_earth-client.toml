@@ -1,0 +1,17 @@
+
+["Orbit Sky"]
+	#Enable custom sky in orbit ?
+	orbitCustomSky = true
+	#How much fancy stars should appear in an orbit sky.
+	orbitFancyStarsCount = 13000
+	#How much fast stars should appear in an orbit sky.
+	orbitFastStarsCount = 6000
+
+["Planet Sky"]
+	#Enable custom sky in planet ?
+	planetCustomSky = true
+	#How much fancy stars should appear in a planet sky.
+	planetFancyStarsCount = 13000
+	#How much fast stars should appear in an planet sky.
+	planetFastStarsCount = 6000
+

@@ -1,0 +1,17 @@
+{
+  "sky_objects": ["twilight", "month", "week", "star", "stars"],
+  "environment": {
+    "fog_color": "#b3ccfd",
+    "sky_color": "#83a4fd",
+    "twilight_alpha": "0",
+    "clouds": {
+      "height": 256,
+      "color": "ffffff"
+    },
+    "fog": {
+      "has_thick_fog": false,
+      "fog_start": "fogStart",
+      "fog_end": "fogEnd"
+    }
+  }
+}

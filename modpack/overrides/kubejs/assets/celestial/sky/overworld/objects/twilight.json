@@ -1,0 +1,21 @@
+{
+  "type": "twilight",
+  "solid_color": "#82a3fb",
+  "solid_color_transition": "#80a2fa",
+  "display": {
+    "scale": "1",
+    "pos_x": "0",
+    "pos_y": "0",
+    "pos_z": "0",
+    "distance": "100"
+  },
+  "rotation": {
+    "base_degrees_y": "0",
+    "twilight_rotation": "skyAngle"
+  },
+  "properties": {
+    "is_solid": true,
+    "blend": true,
+    "alpha": "1"
+  }
+}

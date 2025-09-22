@@ -1,0 +1,12 @@
+{
+  "enabled": true,
+  "attributes": [
+    {
+      "attribute": "minecraft:generic.attack_speed",
+      "amplifier": 0.1
+    }
+  ],
+  "maxQuality": 0,
+  "humanityScaling": 1.0,
+  "update": true
+}

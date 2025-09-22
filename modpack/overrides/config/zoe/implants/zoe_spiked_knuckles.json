@@ -1,0 +1,16 @@
+{
+  "enabled": true,
+  "attributes": [
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "amplifier": 1.25
+    },
+    {
+      "attribute": "zoe:sabotage",
+      "amplifier": 0.25
+    }
+  ],
+  "maxQuality": 0,
+  "humanityScaling": 1.0,
+  "update": true
+}

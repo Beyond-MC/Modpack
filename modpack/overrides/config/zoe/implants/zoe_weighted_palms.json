@@ -1,0 +1,16 @@
+{
+  "enabled": true,
+  "attributes": [
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "amplifier": 1.75
+    },
+    {
+      "attribute": "minecraft:generic.attack_knockback",
+      "amplifier": 0.15
+    }
+  ],
+  "maxQuality": 0,
+  "humanityScaling": 1.1,
+  "update": true
+}

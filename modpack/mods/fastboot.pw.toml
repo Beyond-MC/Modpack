@@ -1,0 +1,13 @@
+name = "FastBoot"
+filename = "fastboot-1.20.x-1.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/nRL5uFe0/versions/L7hAkvRy/fastboot-1.20.x-1.2.jar"
+hash-format = "sha512"
+hash = "7c888221c58ba85199feeae6aba539bde4a02c4c996457b49d91cb9274f5a08b19cfecfe6d6c3387343ef15dbfde812f8e2672e4fd7979615045d6a9d16e6aa8"
+
+[update]
+[update.modrinth]
+mod-id = "nRL5uFe0"
+version = "L7hAkvRy"

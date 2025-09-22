@@ -1,0 +1,13 @@
+name = "Create Utilities"
+filename = "createutilities-0.3.2+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/PRHeWeBs/versions/XZ9y3OVL/createutilities-0.3.2%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "e1227c62ab1da181fbbd7789897823c9c4c9d52338f405dcfc9e28c1a65bb6ad52461ba3d2e8d266c80dffe387aed4ec3ade7da50301f6338482c46ca1555e75"
+
+[update]
+[update.modrinth]
+mod-id = "PRHeWeBs"
+version = "XZ9y3OVL"

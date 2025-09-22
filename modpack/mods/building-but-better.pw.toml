@@ -1,0 +1,13 @@
+name = "Building But Better"
+filename = "bbb-forge-2.0pre3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/OSDpLd82/versions/C0xx6Q9L/bbb-forge-2.0pre3.jar"
+hash-format = "sha512"
+hash = "8a49e950aca69aeb97c6310f2b835921d9980d8859b85d565514a7fcb93b40c7c3b0d2554884ffbff88c813e889f47e0e3767c7b237ea77028f73055d56dbd68"
+
+[update]
+[update.modrinth]
+mod-id = "OSDpLd82"
+version = "C0xx6Q9L"

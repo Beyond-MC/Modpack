@@ -1,0 +1,13 @@
+name = "Recipes Library"
+filename = "RecipesLibrary-1.20.1-2.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LG8SignH/versions/OtGXMRkh/RecipesLibrary-1.20.1-2.0.1.jar"
+hash-format = "sha512"
+hash = "7c1be5b0d78b53c6eaa2d7815fcdfbfb66db3d309c4d9e1b09c0e558bbcec02e6ebffc38a6109f02553d4fa99576687926f920bff36d59f00de5968029a845ad"
+
+[update]
+[update.modrinth]
+mod-id = "LG8SignH"
+version = "OtGXMRkh"

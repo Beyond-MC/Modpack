@@ -1,0 +1,13 @@
+name = "ManyIdeas Halloween"
+filename = "ManyIdeasHalloween-1.20.1-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ieztyjIS/versions/6GCQYT5N/ManyIdeasHalloween-1.20.1-1.0.0.jar"
+hash-format = "sha512"
+hash = "597e3445369c1dbdde2671fab27fd4e2ea86b41f0d4d640c36813072d143068a089fc526baa9169ad8658a0257d3d2e46c0e1c87c35ea6b225af63befdc63105"
+
+[update]
+[update.modrinth]
+mod-id = "ieztyjIS"
+version = "6GCQYT5N"

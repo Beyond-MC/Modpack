@@ -1,0 +1,12 @@
+{
+  "enabled": true,
+  "attributes": [
+    {
+      "attribute": "forge:swim_speed",
+      "amplifier": 0.25
+    }
+  ],
+  "maxQuality": 0,
+  "humanityScaling": 1.0,
+  "update": true
+}

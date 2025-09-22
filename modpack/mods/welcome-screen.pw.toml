@@ -1,0 +1,13 @@
+name = "Welcome Screen"
+filename = "welcomescreen-forge-1.0.0-1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/EzQkPElf/versions/WU3Oty8Q/welcomescreen-forge-1.0.0-1.20.1.jar"
+hash-format = "sha512"
+hash = "6840958a22509f0f6966c630a0480869b25a295ee7b456ceb720baf8c52d511ef4f9877aff855dd0b5428afb7018a939b5e60493811665b1da8fc71a2b0c04e3"
+
+[update]
+[update.modrinth]
+mod-id = "EzQkPElf"
+version = "WU3Oty8Q"

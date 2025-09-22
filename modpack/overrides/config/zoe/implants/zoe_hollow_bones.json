@@ -1,0 +1,24 @@
+{
+  "enabled": true,
+  "attributes": [
+    {
+      "attribute": "minecraft:generic.movement_speed",
+      "amplifier": 0.01
+    },
+    {
+      "attribute": "minecraft:generic.attack_speed",
+      "amplifier": 0.065
+    },
+    {
+      "attribute": "zoe:plating",
+      "amplifier": -0.5
+    },
+    {
+      "attribute": "forge:step_height_addition",
+      "amplifier": 0.5
+    }
+  ],
+  "maxQuality": 0,
+  "humanityScaling": 1.5,
+  "update": true
+}

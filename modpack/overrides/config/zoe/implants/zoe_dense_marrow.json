@@ -1,0 +1,20 @@
+{
+  "enabled": true,
+  "attributes": [
+    {
+      "attribute": "minecraft:generic.attack_knockback",
+      "amplifier": 0.25
+    },
+    {
+      "attribute": "zoe:plating",
+      "amplifier": 1.0
+    },
+    {
+      "attribute": "minecraft:generic.attack_speed",
+      "amplifier": -0.05
+    }
+  ],
+  "maxQuality": 0,
+  "humanityScaling": 1.25,
+  "update": true
+}

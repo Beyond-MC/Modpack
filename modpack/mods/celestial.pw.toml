@@ -1,0 +1,13 @@
+name = "Celestial"
+filename = "celestial_1.19.4_fabric-2.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/J31lhO5V/versions/4qA51EZm/celestial_1.19.4_fabric-2.0.jar"
+hash-format = "sha512"
+hash = "85290f9424037be9c30eb22aea682cbfd75d1458a4b81b586166df2ab280df924eb10af7175d2511722d40e453041d6a6b0ec015603fb813e89e481e8e6b65fd"
+
+[update]
+[update.modrinth]
+mod-id = "J31lhO5V"
+version = "4qA51EZm"

@@ -1,0 +1,12 @@
+{
+  "enabled": true,
+  "attributes": [
+    {
+      "attribute": "zoe:plating",
+      "amplifier": 0.15
+    }
+  ],
+  "maxQuality": 0,
+  "humanityScaling": 1.0,
+  "update": true
+}

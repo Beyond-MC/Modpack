@@ -1,0 +1,24 @@
+{
+  "enabled": true,
+  "attributes": [
+    {
+      "attribute": "zoe:plating",
+      "amplifier": 0.25
+    },
+    {
+      "attribute": "forge:swim_speed",
+      "amplifier": 0.075
+    },
+    {
+      "attribute": "forge:step_height_addition",
+      "amplifier": 0.25
+    },
+    {
+      "attribute": "minecraft:generic.movement_speed",
+      "amplifier": 0.01
+    }
+  ],
+  "maxQuality": 0,
+  "humanityScaling": 1.0,
+  "update": true
+}

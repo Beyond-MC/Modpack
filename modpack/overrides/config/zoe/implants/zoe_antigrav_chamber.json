@@ -1,0 +1,12 @@
+{
+  "enabled": true,
+  "attributes": [
+    {
+      "attribute": "forge:entity_gravity",
+      "amplifier": -0.1
+    }
+  ],
+  "maxQuality": 0,
+  "humanityScaling": 1.25,
+  "update": true
+}

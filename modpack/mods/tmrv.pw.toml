@@ -1,0 +1,13 @@
+name = "TooManyRecipeViewers"
+filename = "toomanyrecipeviewers-0.6.3+mc.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/yFypjcfd/versions/911yYuqS/toomanyrecipeviewers-0.6.3%2Bmc.20.1.jar"
+hash-format = "sha512"
+hash = "a503584ccc1aec6bab207a5a9353427bed61371a9dc3e01fa4c5698226fc02c08b193edf8e31d97af51a47af66440f12a9a9be65bf0118b575888a4969912664"
+
+[update]
+[update.modrinth]
+mod-id = "yFypjcfd"
+version = "911yYuqS"

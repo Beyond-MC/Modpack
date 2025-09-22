@@ -1,0 +1,12 @@
+{
+  "enabled": true,
+  "attributes": [
+    {
+      "attribute": "minecraft:generic.max_health",
+      "amplifier": 1.0
+    }
+  ],
+  "maxQuality": 0,
+  "humanityScaling": 4.0,
+  "update": true
+}

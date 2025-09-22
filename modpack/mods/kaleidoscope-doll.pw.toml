@@ -1,0 +1,13 @@
+name = "Kaleidoscope Doll"
+filename = "kaleidoscopedoll-1.20.1-forge-1.0.9.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vQLjjxNs/versions/SntMGIak/kaleidoscopedoll-1.20.1-forge-1.0.9.jar"
+hash-format = "sha512"
+hash = "528090b22550382478254a076e76b106cfbf3cdb6e51026ac82ea2b31028ac430bbc82f47d33362864ec1d195a1af920b94050fdf71bafb1ce14659067951089"
+
+[update]
+[update.modrinth]
+mod-id = "vQLjjxNs"
+version = "SntMGIak"

@@ -1,0 +1,8 @@
+{
+  "sort_recipes": true,
+  "show_preview": true,
+  "search_bar_mode": "AUTOMATIC",
+  "search_bar_threshold": 32,
+  "sink_allow_all_liquids": false,
+  "sink_capacity_buckets": 3
+}

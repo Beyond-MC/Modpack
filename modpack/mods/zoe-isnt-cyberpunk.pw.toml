@@ -1,0 +1,13 @@
+name = "Zoe Isn't Cyberpunk"
+filename = "zoe-2.1.1-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/C0QN7J2Y/versions/y3qXLjy2/zoe-2.1.1-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "d777b3e4bfeafb83f3f7839d11eaebbdc00a974dc27e168192963c8ff41b3384b9cdefbb7059679a43ffe110d324a9076473c77e90445ef72501f06d5717a4e7"
+
+[update]
+[update.modrinth]
+mod-id = "C0QN7J2Y"
+version = "y3qXLjy2"

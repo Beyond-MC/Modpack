@@ -1,0 +1,12 @@
+{
+  "enabled": true,
+  "attributes": [
+    {
+      "attribute": "zoe:sabotage",
+      "amplifier": 0.75
+    }
+  ],
+  "maxQuality": 0,
+  "humanityScaling": 1.5,
+  "update": true
+}

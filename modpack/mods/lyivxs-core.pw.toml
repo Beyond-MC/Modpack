@@ -1,0 +1,13 @@
+name = "LYIVX's Core"
+filename = "ls_core-1.1.4-Forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ecwMmZnK/versions/LEEpdbMX/ls_core-1.1.4-Forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "fa4d8082cb509c62c6b0ce4721000000b44128183678ccf89c1099b686b0c75db063760342dce7fa0e3fe15d0237e4865d184a4c981ce19dc9d1772cc6145b47"
+
+[update]
+[update.modrinth]
+mod-id = "ecwMmZnK"
+version = "LEEpdbMX"

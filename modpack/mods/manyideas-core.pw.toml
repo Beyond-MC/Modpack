@@ -1,0 +1,13 @@
+name = "ManyIdeas Core"
+filename = "ManyIdeasCore-1.20.1-1.4.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BBY8EPJt/versions/w7jynjlA/ManyIdeasCore-1.20.1-1.4.2.jar"
+hash-format = "sha512"
+hash = "f595b018006bf8f0f6bac53f155cbb037c1deb21848fadf1c0e35f198497672d2d3f73251e6e27fdbae4c491509699e42790e74b11102d2059acc135b179b81b"
+
+[update]
+[update.modrinth]
+mod-id = "BBY8EPJt"
+version = "w7jynjlA"

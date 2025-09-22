@@ -1,0 +1,16 @@
+{
+  "enabled": true,
+  "attributes": [
+    {
+      "attribute": "minecraft:generic.max_health",
+      "amplifier": 1.0
+    },
+    {
+      "attribute": "minecraft:generic.movement_speed",
+      "amplifier": 0.01
+    }
+  ],
+  "maxQuality": 0,
+  "humanityScaling": 1.4,
+  "update": true
+}

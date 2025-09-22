@@ -1,0 +1,13 @@
+name = "Month & Week Moons"
+filename = "Month+n+Week+1.3+1.20.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/sqF8mQ6b/versions/ChZzxmf4/Month%2Bn%2BWeek%2B1.3%2B1.20.1.zip"
+hash-format = "sha512"
+hash = "fcfc1cd86186dc0a0d0b2381ef97bd8b275103f0d66e0c1f36a0f12a2ccc573eb0107b6a7383caf8f52c1e7b76a3f6b7093068cfaefb8fb38d94f7498092e345"
+
+[update]
+[update.modrinth]
+mod-id = "sqF8mQ6b"
+version = "ChZzxmf4"

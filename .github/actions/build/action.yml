@@ -1,5 +1,5 @@
-name: 'Build Modpack Action | Action'
-description: 'Uses packwiz to build the modpack!'
+name: "Build Modpack Action | Action"
+description: "Uses packwiz to build the modpack!"
 inputs:
   release-tag:
     description: "The release tag for the modpack upload"
@@ -13,21 +13,20 @@ inputs:
   modpack:
     description: "Path to the modpack directory"
     required: false
-    default: '.'
+    default: "."
 
 runs:
   using: "composite"
-  
-  steps:
 
+  steps:
     - name: Check Out Git Repository
       uses: actions/checkout@v3
       with:
         fetch-depth: 0
-        ref: 'main'
+        ref: "main"
 
     - name: Install nix
-      uses: cachix/install-nix-action@v22
+      uses: cachix/install-nix-action@v31
 
     - name: Build Modrinth Modpack
       if: inputs.build-modrinth == 'true'
@@ -44,7 +43,6 @@ runs:
         echo "::notice ::⚙ Modpack ${{ inputs.modpack }} has been exported as .zip"
       shell: bash
       working-directory: ${{ inputs.modpack }}
-
 
     - name: Upload Modrinth Modpack to GitHub Releases
       if: inputs.build-modrinth == 'true'

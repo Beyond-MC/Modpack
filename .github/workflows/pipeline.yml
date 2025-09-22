@@ -6,13 +6,11 @@ on:
       - main
 
 env:
-  pack-file: 'pack.toml'
-  default-release-modrinth: 'true'
-  default-release-curseforge: 'false'
-
+  pack-file: "pack.toml"
+  default-release-modrinth: "true"
+  default-release-curseforge: "false"
 
 jobs:
-
   parse-current-modpacks:
     name: Parse current modpacks to a list
 
@@ -21,12 +19,10 @@ jobs:
     permissions:
       contents: read
 
-
     outputs:
       modpack-folders: ${{ steps.list-modpacks.outputs.modpack-folders }}
-    
-    steps:
 
+    steps:
       - name: Check Out Git Repository
         uses: actions/checkout@v5
 
@@ -41,19 +37,17 @@ jobs:
               fi
             fi
           done
-          
-          echo "modpack-folders=$(jq --compact-output --null-input '$ARGS.positional' --args -- "${modpackFolders[@]}")" >> "$GITHUB_OUTPUT"
 
+          echo "modpack-folders=$(jq --compact-output --null-input '$ARGS.positional' --args -- "${modpackFolders[@]}")" >> "$GITHUB_OUTPUT"
 
       - name: Current detected modpacks
         run: |
           echo "::notice ::⚙ Current detected modpacks: ${{ steps.list-modpacks.outputs.modpack-folders }}"
 
   release-please:
-
     needs:
       - parse-current-modpacks
-  
+
     if: ${{ (needs.parse-current-modpacks.outputs.modpack-folders) != '[]' }}
 
     strategy:
@@ -73,25 +67,22 @@ jobs:
       contents: write
       pull-requests: write
 
-
-    steps:      
-
+    steps:
       - name: Perform Release with Release Please
         id: release-please
-        uses: google-github-actions/release-please-action@v4
+        uses: googleapis/release-please-action@v4
         with:
           monorepo-tags: true
           path: ${{ matrix.modpack }}
           release-type: simple
           package-name: ${{ matrix.modpack }}
           prerelease: true
-          changelog-types: > 
+          changelog-types: >
             [{"type":"feat","section":"★ Features","hidden":false},
             {"type":"fix","section":"♻ Bug Fixes","hidden":false},
             {"type":"mod","section":"☀ Modpack Changes","hidden":false},
             {"type":"update","section":"⚘ Modpack Updates","hidden":false},
             {"type":"chore","section":"⛭ Miscellaneous","hidden":true}]
-
 
       - name: Parse tag from PR title
         uses: actions-ecosystem/action-regex-match@v2
@@ -101,12 +92,10 @@ jobs:
           regex: '(?<=\s)(0|[1-9]\d*)\.(0|[1-9]\d*)\.(0|[1-9]\d*)(?:-([0-9A-Za-z-]+(?:\.[0-9A-Za-z-]+)*))?(?:\+([0-9A-Za-z-]+(?:\.[0-9A-Za-z-]+)*))?$'
         if: ${{ steps.release-please.outputs.pr != '' }}
 
-
       - name: Check Out Git Repository
         uses: actions/checkout@v5
         with:
           fetch-depth: 0
-
 
       - name: Bump Version
         uses: ./.github/actions/bump-pack
@@ -115,7 +104,6 @@ jobs:
           modpack: ${{ matrix.modpack }}
           branch: ${{ fromJson(steps.release-please.outputs.pr).headBranchName }}
         if: ${{ steps.release-please.outputs.pr != '' }}
-
 
       - name: Get Latest tag
         id: tag
@@ -137,7 +125,6 @@ jobs:
         shell: bash
         if: ${{ steps.release-please.outputs.releases_created }}
 
-
       - name: Build Modpack
         uses: ./.github/actions/build
         with:
@@ -146,7 +133,6 @@ jobs:
           build-modrinth: ${{ env.default-release-modrinth }}
           build-curse: ${{ env.default-release-curseforge }}
         if: ${{ steps.release-please.outputs.releases_created }}
-
 
       # --- Release
       - name: Release Modpack to Vendors

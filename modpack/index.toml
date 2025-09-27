@@ -1937,6 +1937,11 @@ hash = "e9dfcaebe165cb93ba4774f5c17bae14b5b82878593199539326f92519f59d5e"
 metafile = true
 
 [[files]]
+file = "mods/dimthreads.pw.toml"
+hash = "af6e9935fcfdc98b37c46d56e23ce9ca4f0c36be50c7e840a23e9908d248fca8"
+metafile = true
+
+[[files]]
 file = "mods/do-api.pw.toml"
 hash = "35e3ed00b7e0b2a3082ed35c677589ca762cd73e18858ad6ba7a4b6f7cdef441"
 metafile = true

@@ -22,7 +22,7 @@
           "spaceTicks": 0,
           "keybind": {
             "version": 0,
-            "keyName": "key.keyboard.p",
+            "keyName": "key.keyboard.period",
             "limitKeyName": "key.keyboard.unknown"
           },
           "altKeybind": {

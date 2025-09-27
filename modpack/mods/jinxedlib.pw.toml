@@ -1,0 +1,13 @@
+name = "JinxedLib"
+filename = "JinxedLib-forge-1.20.1-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Vrr7WtS4/versions/UNxWo4er/JinxedLib-forge-1.20.1-1.0.3.jar"
+hash-format = "sha512"
+hash = "8968c6bc1fd7efb617cc7f46ec86bfbd476d8f4e54a9f7d8473c7f5e1c1d6f93125a8ee693b2b736208c84b21997c8888ed042cbbea3b02421319dfaae9e19f2"
+
+[update]
+[update.modrinth]
+mod-id = "Vrr7WtS4"
+version = "UNxWo4er"

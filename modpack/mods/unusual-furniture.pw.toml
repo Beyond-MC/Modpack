@@ -1,13 +1,13 @@
 name = "Unusual Furniture"
-filename = "unusual_furniture-1.0-forge-1.20.1.jar"
+filename = "unusual_furniture-1.1.1-forge-1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/MZFE37e3/versions/hmz9vTdS/unusual_furniture-1.0-forge-1.20.1.jar"
+url = "https://cdn.modrinth.com/data/MZFE37e3/versions/i4vKolbx/unusual_furniture-1.1.1-forge-1.20.1.jar"
 hash-format = "sha512"
-hash = "3703ab4c8c8ab7f58ccb1ddcc394ee3f244a439df1c10165b6821a2451cf9317a45f7a1c681451ada81d3cdf8edffcdc2fbc270ee9a46695b90dfc695ea742da"
+hash = "ee9854a33bb5afa95f8a08983bfa44d2d21fc9d1064bc62d902770ecfc626382645b489a5699de21b9b933bd7c98792d9e4a19d36d9f8c160391fe478b4ded65"
 
 [update]
 [update.modrinth]
 mod-id = "MZFE37e3"
-version = "hmz9vTdS"
+version = "i4vKolbx"

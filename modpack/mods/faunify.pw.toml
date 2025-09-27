@@ -1,0 +1,13 @@
+name = "Faunify"
+filename = "faunify-forge-1.20.1-1.2.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lqLPTalI/versions/IqPsCegw/faunify-forge-1.20.1-1.2.3.jar"
+hash-format = "sha512"
+hash = "6677d95c56027eca5f71132786a740abbb29898b9c1cc58c1a7c041a6d8bfa521472c21968c4ace746871f099912caa9ea2c78b0e48717ce6827a60aa0d152b0"
+
+[update]
+[update.modrinth]
+mod-id = "lqLPTalI"
+version = "IqPsCegw"

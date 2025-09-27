@@ -1,4 +1,4 @@
-name = "Beyond-SMP"
+name = "Beyond"
 author = "Ramon"
 version = "0.0.1"
 pack-format = "packwiz:1.1.0"
@@ -6,7 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "335706dff60e6007ce18f443db6ae0d129d0035881821942b6291f21ea5ca5bf"
+hash = "0d1eaadf2d49a80cbfb45a36af14ef92e0a8db51aa4d78caa9541d3f8f525347"
 
 [versions]
 forge = "47.4.9"

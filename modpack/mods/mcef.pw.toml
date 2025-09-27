@@ -1,0 +1,13 @@
+name = "MCEF (Minecraft Chromium Embedded Framework)"
+filename = "mcef-forge-2.1.6-1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/TObQ0HxZ/versions/x91l6OKB/mcef-forge-2.1.6-1.20.1.jar"
+hash-format = "sha512"
+hash = "6df8c8e70ab15b3662404a3a398c18689fb7591e84e1a913d8939bee144f030cd2aeaee4e68f1ed159881a59796a37a7f628dd442e6ba7836005e14ad7b9704d"
+
+[update]
+[update.modrinth]
+mod-id = "TObQ0HxZ"
+version = "x91l6OKB"

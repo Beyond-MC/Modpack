@@ -1,0 +1,13 @@
+name = "Dan's Lightsabers"
+filename = "lightsabers-1.20.1-2.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/TI5nnfvK/versions/Xq4qTDPZ/lightsabers-1.20.1-2.5.jar"
+hash-format = "sha512"
+hash = "dbfb4873b6fe5dff2b0240620f149e06c0e04e50403d8d675fe0d11017624d7d708cca5b5579b0bca2b04b561a575f5eb56a338c37474cc3c8e8391b336cd4a4"
+
+[update]
+[update.modrinth]
+mod-id = "TI5nnfvK"
+version = "Xq4qTDPZ"

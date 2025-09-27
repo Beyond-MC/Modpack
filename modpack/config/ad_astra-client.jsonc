@@ -1,7 +1,7 @@
 {
   "showOxygenDistributorArea": false,
   "showGravityNormalizerArea": false,
-  "jetSuitEnabled": false,
+  "jetSuitEnabled": true,
   // Type: Integer
   "oxygenBarX": 5,
   // Type: Integer

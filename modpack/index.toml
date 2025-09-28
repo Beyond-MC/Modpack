@@ -2257,6 +2257,11 @@ hash = "dc906a68268eaba1a7690ddda6931e752b72aba629eec3407f252ecee76b70ea"
 metafile = true
 
 [[files]]
+file = "mods/moonlight.pw.toml"
+hash = "02d8f73c4d1f35c4cd877ff6c988e2ea5fe35080e77a7a097b17c00233e62abc"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "679fa8f3b49b9ed3fbcb29d6ccdb99bce465faa01f9cec000464ac8d4fbe134f"
 metafile = true
@@ -2434,6 +2439,11 @@ metafile = true
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
 hash = "b969799c17defc1e7c76e4605557c9d32802a0004a5e45b7044e85d3d9c43345"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "f1a97b4c5c890b2153f4b91360279911b8affa8577a2d2a3645d5f6d583d2e39"
 metafile = true
 
 [[files]]

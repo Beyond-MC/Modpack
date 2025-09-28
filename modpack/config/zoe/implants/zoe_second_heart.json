@@ -3,10 +3,10 @@
   "attributes": [
     {
       "attribute": "minecraft:generic.max_health",
-      "amplifier": 1.0
+      "amplifier": 2.0
     }
   ],
   "maxQuality": 0,
-  "humanityScaling": 4.0,
+  "humanityScaling": 2.0,
   "update": true
 }

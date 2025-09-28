@@ -3,7 +3,7 @@
   "attributes": [
     {
       "attribute": "forge:entity_reach",
-      "amplifier": 0.15
+      "amplifier": 0.25
     },
     {
       "attribute": "forge:block_reach",

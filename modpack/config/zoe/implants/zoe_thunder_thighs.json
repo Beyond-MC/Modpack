@@ -12,13 +12,9 @@
     {
       "attribute": "zoe:volt",
       "amplifier": 0.25
-    },
-    {
-      "attribute": "forge:swim_speed",
-      "amplifier": -0.025
     }
   ],
   "maxQuality": 0,
-  "humanityScaling": 2.0,
+  "humanityScaling": 1.0,
   "update": true
 }

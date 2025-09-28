@@ -19,7 +19,7 @@
     },
     {
       "attribute": "forge:swim_speed",
-      "amplifier": -0.015
+      "amplifier": -0.05
     }
   ],
   "maxQuality": 0,

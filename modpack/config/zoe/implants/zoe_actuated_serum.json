@@ -7,10 +7,10 @@
     },
     {
       "attribute": "minecraft:generic.movement_speed",
-      "amplifier": 0.005
+      "amplifier": 0.0025
     }
   ],
   "maxQuality": 0,
-  "humanityScaling": 1.2,
+  "humanityScaling": 2.2,
   "update": true
 }

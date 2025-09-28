@@ -3,14 +3,14 @@
   "attributes": [
     {
       "attribute": "minecraft:generic.max_health",
-      "amplifier": 1.0
+      "amplifier": 2.0
     },
     {
       "attribute": "minecraft:generic.movement_speed",
-      "amplifier": 0.01
+      "amplifier": 0.0025
     }
   ],
   "maxQuality": 0,
-  "humanityScaling": 1.4,
+  "humanityScaling": 3.4,
   "update": true
 }

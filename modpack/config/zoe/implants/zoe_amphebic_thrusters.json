@@ -3,10 +3,10 @@
   "attributes": [
     {
       "attribute": "forge:swim_speed",
-      "amplifier": 0.25
+      "amplifier": 0.175
     }
   ],
   "maxQuality": 0,
-  "humanityScaling": 1.0,
+  "humanityScaling": 2.0,
   "update": true
 }

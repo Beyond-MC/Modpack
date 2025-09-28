@@ -1,0 +1,13 @@
+name = "Creating Space"
+filename = "creatingspace-1.20.1_1.7.10.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8VQksBiY/versions/MybILAIh/creatingspace-1.20.1_1.7.10.jar"
+hash-format = "sha512"
+hash = "0d2447002897cbdd8903b576160dd98702bc8792b1b1dd5ff1e97ea5d066d462416db58b49f06260b760f3f414e9057a70c8fab362e36f16147825ef29126e9a"
+
+[update]
+[update.modrinth]
+mod-id = "8VQksBiY"
+version = "MybILAIh"

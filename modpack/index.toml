@@ -1702,11 +1702,6 @@ hash = "3ca7d9d3e8a27d354ece2adc3bbaf41f7c22f9b3e3b85175ff996e1f58f095fb"
 metafile = true
 
 [[files]]
-file = "mods/ad-astra-rocketed.pw.toml"
-hash = "a93351c1cf6760a74550a71202f2b1961176c81f282bec63750fe7d5614e4672"
-metafile = true
-
-[[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "d7a30358cb8314c296fec14e4ea74b8301edf093d6054dafac121e8fe9ac434f"
 metafile = true
@@ -1909,6 +1904,11 @@ metafile = true
 [[files]]
 file = "mods/createaddition.pw.toml"
 hash = "efb00d657d22a7e560916ae2b7a2836f48586527a5ff40338af7e928472ef9da"
+metafile = true
+
+[[files]]
+file = "mods/creating-space.pw.toml"
+hash = "e6640da22cf149cd07bd93781346247bf063e6acfb804653ec21a3dc1f5dbcbd"
 metafile = true
 
 [[files]]

@@ -2517,11 +2517,6 @@ hash = "87738e19da36bbc59ab8ed247ad3986eedbfeb3d70b6b2f8e21150514f0eba58"
 metafile = true
 
 [[files]]
-file = "mods/welcome-screen.pw.toml"
-hash = "1d21c362dcbe088b0fe14a8091432815d69151f72926c2a8535e34349aecde53"
-metafile = true
-
-[[files]]
 file = "mods/zeta.pw.toml"
 hash = "4bcf74d4569def60ca031d565350952c2edcc420f26278bc7997654a77b6fb4d"
 metafile = true

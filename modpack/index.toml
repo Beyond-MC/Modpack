@@ -2022,11 +2022,6 @@ hash = "9dd18e3daebb3ef69f9b5c468529ec3b52a3941b11f07cf85e021a847a2d7ee4"
 metafile = true
 
 [[files]]
-file = "mods/fakename-fabric.pw.toml"
-hash = "e25f33caf38965497d923bccaf6f280db63f5258c12e1bd1dff4ea59ef5ac91a"
-metafile = true
-
-[[files]]
 file = "mods/fancymenu.pw.toml"
 hash = "2f23491c650ffa8f2758ea80e98da56e9a6791551fa5dc9eb995434a55f58785"
 metafile = true

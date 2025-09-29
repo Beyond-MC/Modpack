@@ -2097,6 +2097,11 @@ hash = "122e363a284d858065df3e1621994e4fc980d508ac5a89bf7193ac76767cd58b"
 metafile = true
 
 [[files]]
+file = "mods/interiors.pw.toml"
+hash = "94a549e2ce246807a68cb59773e2ee2ec412039fb2aed4e4d5b35077972c66d4"
+metafile = true
+
+[[files]]
 file = "mods/iris-flw-compat.pw.toml"
 hash = "e9b05dcf29f12335bcbf61bbbc019cee3d5b983c49433e3fc23fcf4afe12e9d1"
 metafile = true

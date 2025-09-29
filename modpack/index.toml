@@ -2182,11 +2182,6 @@ hash = "eedc90c3b93d57bd04f6e6b38d9817227f7e502db5327bb0155fb91f64ee8302"
 metafile = true
 
 [[files]]
-file = "mods/longwings.pw.toml"
-hash = "173d4b324faa7fe88b59af0e36734add16b386ffff81c19e4f81fbf9ee4e6f45"
-metafile = true
-
-[[files]]
 file = "mods/lootjs.pw.toml"
 hash = "dac76b57fd114d37956011ad054aab6b5e86f1fd9e308da534bff0ca69a78989"
 metafile = true

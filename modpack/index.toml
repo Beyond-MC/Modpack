@@ -1957,6 +1957,11 @@ hash = "b3f89cbb1789f86dfe52f10a31fdfcea64a9474715c8170f218ae35fc9dcaf92"
 metafile = true
 
 [[files]]
+file = "mods/dynamiccrosshair.pw.toml"
+hash = "a0db848d0e2379a29c654d481a3baf5ef21edd2e8b9bcdb985e58c493e8a69d2"
+metafile = true
+
+[[files]]
 file = "mods/elevatormod.pw.toml"
 hash = "f5d37adacc560364c03ff2baeff8f08ba0005ce5899459ed2459f3fb252f240c"
 metafile = true

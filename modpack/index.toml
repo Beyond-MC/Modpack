@@ -2507,6 +2507,11 @@ hash = "6cdd0327a10ccd5c02143d602da29d6c94313640d3bcc5f2946054bb8f1cf21b"
 metafile = true
 
 [[files]]
+file = "mods/velthoric.pw.toml"
+hash = "e7c6f3e0da3d075a98198354b0ba6686e18fe0221bde52670c969f9ea19664ba"
+metafile = true
+
+[[files]]
 file = "mods/wab.pw.toml"
 hash = "589e350709baf63e2f49cbdb8f739e3213250efbdc41c62c4ec1e821d40047d1"
 metafile = true

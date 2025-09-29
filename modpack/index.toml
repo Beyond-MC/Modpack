@@ -1697,6 +1697,11 @@ file = "kubejs/startup_scripts/example.js"
 hash = "395c96d3ddd178821db851f387e91560e606ea752177f66d2016f12bd0542b8f"
 
 [[files]]
+file = "mods/aaa-particles.pw.toml"
+hash = "5f164d20e5ac83617e8836d16bc0a9e468fd01a18f8d8e12ac4bff4b92d5ceea"
+metafile = true
+
+[[files]]
 file = "mods/achievements-optimizer.pw.toml"
 hash = "3ca7d9d3e8a27d354ece2adc3bbaf41f7c22f9b3e3b85175ff996e1f58f095fb"
 metafile = true
@@ -2468,7 +2473,7 @@ metafile = true
 
 [[files]]
 file = "mods/thermal-shock.pw.toml"
-hash = "2b91904d501c5960cc4a4e00adf7e40179594e277749dda332edcf752f5d45bb"
+hash = "5bd1dd7cd0df89ffd21c12d72a63f8227ff12da7827458d3a664f58dcdbed544"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "AAA Particles"
+filename = "aaa_particles-1.20.1-1.4.11-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/En8uHTOK/versions/heNkI8gU/aaa_particles-1.20.1-1.4.11-forge.jar"
+hash-format = "sha512"
+hash = "7d0df9076d1871338556165be8ee3feadfb8e09ab7315ab2726c398f8351ea5e3e0d1907caae2aa9afa5443d9e6ef71d139590887ee0a670a0e4de11dfa0e17b"
+
+[update]
+[update.modrinth]
+mod-id = "En8uHTOK"
+version = "heNkI8gU"

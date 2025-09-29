@@ -1,13 +1,13 @@
 name = "Thermal Shock"
-filename = "thermal_shock-Beta 0.121-forge-1.20.1.jar"
+filename = "thermal_shock-Beta 0.13-forge-1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/eWLQHuwu/versions/UkFbRqEj/thermal_shock-Beta%200.121-forge-1.20.1.jar"
+url = "https://cdn.modrinth.com/data/eWLQHuwu/versions/c3zscEYP/thermal_shock-Beta%200.13-forge-1.20.1.jar"
 hash-format = "sha512"
-hash = "36c168b454959c94c188d037cfb662c77298522020d3d804261ce59ec4cc586c40e561da8ba7aec4a0061bcd52f162af1038d819892b1a03ecdfd484c85908d7"
+hash = "a73a4f71847455c94d9d2f8076774fb1aa3bb1804a658b1f387d8f10ba55676a236528b2b50561506a1196d5c17e13e58b4fb33c7a08b76bf407f3017299ad76"
 
 [update]
 [update.modrinth]
 mod-id = "eWLQHuwu"
-version = "UkFbRqEj"
+version = "c3zscEYP"

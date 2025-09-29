@@ -2112,6 +2112,11 @@ hash = "e9b05dcf29f12335bcbf61bbbc019cee3d5b983c49433e3fc23fcf4afe12e9d1"
 metafile = true
 
 [[files]]
+file = "mods/item-banning.pw.toml"
+hash = "9053d5f1d2dc40b9c8989fd34adda5ecf6813cf7ce7922352fb58fa1d4680efc"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "0fbcc8cf03336e6bed425e2115fc4ff1a3a05be5c655228b305e70380eb08b57"
 metafile = true

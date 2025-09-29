@@ -1907,11 +1907,6 @@ hash = "efb00d657d22a7e560916ae2b7a2836f48586527a5ff40338af7e928472ef9da"
 metafile = true
 
 [[files]]
-file = "mods/creating-space.pw.toml"
-hash = "e6640da22cf149cd07bd93781346247bf063e6acfb804653ec21a3dc1f5dbcbd"
-metafile = true
-
-[[files]]
 file = "mods/creativecore.pw.toml"
 hash = "9582c04926dd9cea7f68f6f1b4e068bd2ec3f6fcb2734497d885364c6b74b1e1"
 metafile = true

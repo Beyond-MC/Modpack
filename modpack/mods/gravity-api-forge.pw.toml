@@ -1,0 +1,13 @@
+name = "Gravity API (Forge)"
+filename = "gravityapi-1.0.0-all.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "65cd77bf5f66db8bc77542025598f512725d4698"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6657449
+project-id = 1283915

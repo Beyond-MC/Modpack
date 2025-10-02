@@ -1,0 +1,13 @@
+name = "Create - Songs and Speakers (Iam Music Player Fork)"
+filename = "createsongsandspeakers-forge-mc1.20.1-0.7 - Fork of 3.22.0-rc1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ca3d9da47ef9c39c30ac95be9cdbb36d9b4b3395"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7017242
+project-id = 966928

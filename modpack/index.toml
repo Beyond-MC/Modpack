@@ -1847,6 +1847,11 @@ hash = "84508b65bca70ea21d5d88556c9ea45f1c7d5cd4ee89e36909af2790205be62f"
 metafile = true
 
 [[files]]
+file = "mods/compact-machines.pw.toml"
+hash = "d811d8a03eb5599c316bed7c06632f7431f268aa4bc68cae81dba7fd9e951a88"
+metafile = true
+
+[[files]]
 file = "mods/connected-glass.pw.toml"
 hash = "b70343a7d639e0bf6393ddae6ad80a439c1d3d082b3d561e1a323082cab01a10"
 metafile = true
@@ -1877,6 +1882,11 @@ hash = "c098f8de47e41b1ef7b84b7094a1db73f7f764109f8ddd940e1f810aad5d1610"
 metafile = true
 
 [[files]]
+file = "mods/cosmetic-armor-reworked.pw.toml"
+hash = "cfa8aa9c0437721dab2057c932c9cf8ec3d3a11f672040601305238d13df85e8"
+metafile = true
+
+[[files]]
 file = "mods/crash-utilities.pw.toml"
 hash = "ab11ea43bb8670094832a19e11f5f71b883c682c97b9f20236a992616d16799a"
 metafile = true
@@ -1894,6 +1904,11 @@ metafile = true
 [[files]]
 file = "mods/create-new-age.pw.toml"
 hash = "a6feb15f78ee7192942287790965b40412221ac822985fdb18f05605fc951d78"
+metafile = true
+
+[[files]]
+file = "mods/create-songs-and-speakers-iam-music-player-fork.pw.toml"
+hash = "1edda04a1aa9bcae57981477a9f3ba950b5355a42c03977d4139143fb0ea603b"
 metafile = true
 
 [[files]]
@@ -2027,6 +2042,11 @@ hash = "9dd18e3daebb3ef69f9b5c468529ec3b52a3941b11f07cf85e021a847a2d7ee4"
 metafile = true
 
 [[files]]
+file = "mods/fairy-lights.pw.toml"
+hash = "eeca094798607a0393a5ec261a0f3298e20fa74b0daa879951aec47c2c7fe64b"
+metafile = true
+
+[[files]]
 file = "mods/fancymenu.pw.toml"
 hash = "2f23491c650ffa8f2758ea80e98da56e9a6791551fa5dc9eb995434a55f58785"
 metafile = true
@@ -2057,8 +2077,18 @@ hash = "eb132a98896606d5798ccddf2b012a0f2061e21e8779202912046f9d91cf3e28"
 metafile = true
 
 [[files]]
+file = "mods/flux-networks.pw.toml"
+hash = "de63df967225278681e18afe0e323110322ec02006746980fbe77dbd974b20b3"
+metafile = true
+
+[[files]]
 file = "mods/forgified-fabric-api.pw.toml"
 hash = "52cbf31840eef5ec3a4dd81ab04ef33a518e4f0ed89fad11c965da0374a7a6d6"
+metafile = true
+
+[[files]]
+file = "mods/framework.pw.toml"
+hash = "376f8a190f00bd120193d7a665ebe1b03dfe329cc395f7d944f7216c1182c84d"
 metafile = true
 
 [[files]]
@@ -2089,6 +2119,11 @@ metafile = true
 [[files]]
 file = "mods/glitchcore.pw.toml"
 hash = "71f185e62d546881244d4b5a213ebc3d2d6df14b0218c0e5dd6426fcb22cb55f"
+metafile = true
+
+[[files]]
+file = "mods/gravity-api-forge.pw.toml"
+hash = "b4e5c8a813b04991f35d1d37ae7b4c30f10d9855213c5921f66b9517021cd9f4"
 metafile = true
 
 [[files]]
@@ -2322,6 +2357,11 @@ hash = "7eb6d85c0116cb003c29bbfb62030d2eddfe3d219d5d8ab23a54a76ed9978595"
 metafile = true
 
 [[files]]
+file = "mods/otyacraft-engine.pw.toml"
+hash = "7731c4ec8780399ae7652165e339aaecc5273978f00da16237b6330bcc395a03"
+metafile = true
+
+[[files]]
 file = "mods/pehkui.pw.toml"
 hash = "1f92dd360908c1801848dcd4d14aca5640199545e7e22e76bfdb981b06fa9399"
 metafile = true
@@ -2362,6 +2402,11 @@ hash = "779155317471577b1c73d66584bf2a43bb358662efcf984ced59e0b993a22f62"
 metafile = true
 
 [[files]]
+file = "mods/refurbished-furniture.pw.toml"
+hash = "d0bf99ee6738fe077f5da39695f8f04aaa5fc25b5aad9387310d9d6134759500"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-config.pw.toml"
 hash = "b85e8417e797be3fdae046c487eeda8f54cdc88f3f20e462e0e229f8dd734214"
 metafile = true
@@ -2394,6 +2439,11 @@ metafile = true
 [[files]]
 file = "mods/scholar.pw.toml"
 hash = "ee402b020df43ac4265f5fcdb375798f31ea31862bd25445b5e78dc101de1000"
+metafile = true
+
+[[files]]
+file = "mods/scorched-guns.pw.toml"
+hash = "928bba3e23adf5b31d68eb63c15a5aded0a6feacd22ef2e2ed5a5c7e64ba8438"
 metafile = true
 
 [[files]]

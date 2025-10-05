@@ -1,6 +1,6 @@
 name = "Crash Utilities"
 filename = "crashutilities-8.1.4.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/nbg22QFg/versions/2IKVjueV/crashutilities-8.1.4.jar"

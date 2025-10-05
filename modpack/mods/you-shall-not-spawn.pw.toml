@@ -1,0 +1,13 @@
+name = "You Shall Not Spawn!"
+filename = "YouShallNotSpawn-forge-1.20.x-2.0.2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/EjXcpmEA/versions/cOtszKAy/YouShallNotSpawn-forge-1.20.x-2.0.2.jar"
+hash-format = "sha512"
+hash = "ba083bf3c1656cbd3034ae67df977c867a505c508caa0e3af33ac81b55b377f70f91362bb5387f881edf2a7f37cb28d290e8163f2c5db16125ca80b5390c8c1d"
+
+[update]
+[update.modrinth]
+mod-id = "EjXcpmEA"
+version = "cOtszKAy"

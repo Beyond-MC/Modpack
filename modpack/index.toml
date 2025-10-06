@@ -2362,6 +2362,11 @@ hash = "7eb6d85c0116cb003c29bbfb62030d2eddfe3d219d5d8ab23a54a76ed9978595"
 metafile = true
 
 [[files]]
+file = "mods/orbital-railgun-reforged.pw.toml"
+hash = "92bf70d309ec21f021995180ab0e311d678c209f04626f38f0cd6c3c4b50ace4"
+metafile = true
+
+[[files]]
 file = "mods/otyacraft-engine.pw.toml"
 hash = "87f3ec2b65da8fedcf571b8e172b2e32f76f249e7f83ff055caecc69e9d27182"
 metafile = true

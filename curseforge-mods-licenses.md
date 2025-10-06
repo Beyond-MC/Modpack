@@ -7,3 +7,4 @@
 - Gravityapi -> [MIT License](https://www.curseforge.com/minecraft/mc-mods/gravity-api-forge#license)
 - Refurbished_furniture -> [Custom License](https://www.curseforge.com/minecraft/mc-mods/refurbished-furniture#license)
 - Scorched guns -> [GNU License](https://www.curseforge.com/minecraft/mc-mods/scorched-guns#license)
+- Orbital Railgun Reforged -> [MIT License](https://www.curseforge.com/minecraft/mc-mods/orbital-railgun-reforged#license)

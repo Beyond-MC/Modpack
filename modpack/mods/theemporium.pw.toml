@@ -1,0 +1,13 @@
+name = "The Emporium Furniture Mod"
+filename = "theemporium-FallingGravityExpansion-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ozBhbopM/versions/usraV6N8/theemporium-FallingGravityExpansion-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "a3785ff94f98d9e3486b717762c0c6a48e8c55d980a16285ad705b7d882b9b4f0662d560bb5afaff4fa9230ae7c5d20ef182969c383f030a720f8fbc902ab686"
+
+[update]
+[update.modrinth]
+mod-id = "ozBhbopM"
+version = "usraV6N8"

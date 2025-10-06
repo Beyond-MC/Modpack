@@ -2542,6 +2542,11 @@ hash = "b3b1b64a93b222e5b0fb8cd638264fe22c20afe5817eb78654a50fb9409590e4"
 metafile = true
 
 [[files]]
+file = "mods/theemporium.pw.toml"
+hash = "ceada75d9422638ea6ce70427278e92bdb023c0b72ff03461e9117d112585155"
+metafile = true
+
+[[files]]
 file = "mods/thermal-shock.pw.toml"
 hash = "5bd1dd7cd0df89ffd21c12d72a63f8227ff12da7827458d3a664f58dcdbed544"
 metafile = true

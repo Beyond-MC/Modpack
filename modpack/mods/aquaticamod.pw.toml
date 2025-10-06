@@ -1,0 +1,13 @@
+name = "Aquatica_"
+filename = "aquatica-1.0.0 (28).jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "091ecb53853d159d763b472c7ee60ed47f8164b4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6902362
+project-id = 1145358

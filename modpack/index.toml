@@ -1712,6 +1712,11 @@ hash = "d7a30358cb8314c296fec14e4ea74b8301edf093d6054dafac121e8fe9ac434f"
 metafile = true
 
 [[files]]
+file = "mods/ae2.pw.toml"
+hash = "bf4133b4ac7b08983c98dcfb4cbfe4cc2b10698efb935d19378fd6a27490dd22"
+metafile = true
+
+[[files]]
 file = "mods/alexs-caves.pw.toml"
 hash = "0cbc4b2c6b58b7a94f030ae84f18057e5dc78a17bad429f40b8884926a6ab233"
 metafile = true
@@ -1904,6 +1909,11 @@ metafile = true
 [[files]]
 file = "mods/crash-utilities.pw.toml"
 hash = "ab11ea43bb8670094832a19e11f5f71b883c682c97b9f20236a992616d16799a"
+metafile = true
+
+[[files]]
+file = "mods/create-applied-kinetics.pw.toml"
+hash = "2abfac150d6c52601ed1d666381e9992f1be1eb88ba2c2cd0d11c6a863215986"
 metafile = true
 
 [[files]]
@@ -2139,6 +2149,11 @@ metafile = true
 [[files]]
 file = "mods/gravity-api-forge.pw.toml"
 hash = "b4e5c8a813b04991f35d1d37ae7b4c30f10d9855213c5921f66b9517021cd9f4"
+metafile = true
+
+[[files]]
+file = "mods/guideme.pw.toml"
+hash = "5b1ccd88254480f6b73358491b4ef1eff859cffdd6784dea4d1a89c8fdf74601"
 metafile = true
 
 [[files]]

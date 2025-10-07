@@ -1,0 +1,13 @@
+name = "Alien Cat"
+filename = "bogos_binted-1.2.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1f48c4f5629c42ee5f2d02b2e19557c31c62d4fb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6974977
+project-id = 1184384

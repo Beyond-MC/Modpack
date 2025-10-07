@@ -1817,11 +1817,6 @@ hash = "a613f5d2df911fea606968bbdb56eebfd05ac02ada846cf0d2e56e72345d9338"
 metafile = true
 
 [[files]]
-file = "mods/cc-tweaked.pw.toml"
-hash = "33fbfba45630792a9223d4e20c9300bc9fef142c68781fc648c32b62313f3e16"
-metafile = true
-
-[[files]]
 file = "mods/celestial.pw.toml"
 hash = "230b7ff87ed425843c71bc2d02f25b91a9e3329661d5350e573a39c2abd68554"
 metafile = true
@@ -2624,11 +2619,6 @@ metafile = true
 [[files]]
 file = "mods/wall-jump-txf.pw.toml"
 hash = "085af60f2d1ca2e7e322da887da0ffb802c4ec634bb249e8dca854ee2176a9c7"
-metafile = true
-
-[[files]]
-file = "mods/waterframes-computercraft-compat.pw.toml"
-hash = "11360ea9f8f5d634cce6467e7a8bfc46c3864cbfe531a1b01c5254a3375ac0c2"
 metafile = true
 
 [[files]]

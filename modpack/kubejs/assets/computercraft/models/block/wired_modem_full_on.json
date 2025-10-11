@@ -1,0 +1,8 @@
+{
+	"parent": "ico:block/modem_full",
+	"textures": {
+		"face": "computercraft:block/modem",
+		"lights": "ico:block/second/modem_lights",
+		"lights2": "ico:block/second/computer_off"
+	}
+}

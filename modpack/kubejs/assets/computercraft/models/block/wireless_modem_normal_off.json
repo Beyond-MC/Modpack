@@ -1,0 +1,7 @@
+{
+	"parent": "ico:block/wireless_modem",
+	"textures": {
+		"face": "computercraft:block/wireless_modem_face",
+		"lights": "ico:block/second/computer_off"
+	}
+}

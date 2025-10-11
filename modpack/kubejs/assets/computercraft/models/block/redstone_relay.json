@@ -1,0 +1,40 @@
+{
+	"parent": "minecraft:block/orientable",
+	"credit": "Made with Blockbench by PirateSee",
+	"render_type": "cutout",
+	"textures": {
+		"particle": "computercraft:block/redstone_relay_bottom",
+		"bottom": "computercraft:block/redstone_relay_bottom",
+		"front": "computercraft:block/redstone_relay_front",
+		"glow": "computercraft:block/redstone_relay_glow",
+		"side": "computercraft:block/redstone_relay_side",
+		"top": "computercraft:block/redstone_relay_top"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#front"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#side"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#side"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#side"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#top"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#bottom"}
+			}
+		},
+		{
+			"from": [-0.1, -0.1, -0.1],
+			"to": [16.1, 16.1, 16.1],
+			"light_emission": 15,
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#glow"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#glow"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#glow"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#glow"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#glow"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#glow"}
+			}
+		}
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"parent": "ico:block/computer",
+	"textures": {
+		"north": "ico:block/second/computer_advanced_front",
+		"south": "ico:block/second/computer_advanced_back",
+		"side": "ico:block/second/computer_advanced_side",
+		"top": "ico:block/magentaplaster",
+		"bottom": "ico:block/second/computer_advanced_bottom",
+		"screen": "ico:block/second/computer_screen_on",
+		"cursor": "ico:block/second/computer_throbber",
+		"particle": "ico:block/second/computer_advanced_back"
+	}
+}

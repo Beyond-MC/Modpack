@@ -1,0 +1,13 @@
+{
+	"parent": "ico:block/computer",
+	"textures": {
+		"north": "ico:block/second/computer_normal_front",
+		"south": "ico:block/second/computer_normal_back",
+		"side": "ico:block/second/computer_normal_side",
+		"top": "ico:block/limeplaster",
+		"bottom": "ico:block/second/computer_normal_bottom",
+		"screen": "ico:block/second/computer_screen_on",
+		"cursor": "ico:block/second/computer_on",
+		"particle": "ico:block/second/computer_normal_back"
+	}
+}

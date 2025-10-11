@@ -1,0 +1,37 @@
+{
+	"credit": "Made with Blockbench by PirateSee",
+	"render_type": "cutout",
+	"parent": "block/block",
+	"textures": {
+		"side": "computercraft:block/cable_side",
+		"particle": "computercraft:block/cable_side"
+	},
+	"elements": [
+		{
+			"from": [6, 6, 10],
+			"to": [10, 10, 16],
+			"faces": {
+				"east": {"uv": [10, 6, 16, 10], "texture": "#side"},
+				"west": {"uv": [0, 6, 6, 10], "texture": "#side"},
+				"up": {"uv": [6, 10, 10, 16], "texture": "#side"},
+				"down": {"uv": [6, 0, 10, 6], "texture": "#side"}
+			}
+		},
+		{
+			"from": [5.8, 6.9, 10],
+			"to": [10.2, 9.1, 16],
+			"faces": {
+				"east": {"uv": [0, 1, 6, 3], "texture": "#side"},
+				"west": {"uv": [0, 3, 6, 5], "texture": "#side"}
+			}
+		},
+		{
+			"from": [6.9, 5.8, 10],
+			"to": [9.1, 10.2, 16],
+			"faces": {
+				"up": {"uv": [10, 10, 12, 16], "texture": "#side"},
+				"down": {"uv": [10, 0, 12, 6], "texture": "#side"}
+			}
+		}
+	]
+}

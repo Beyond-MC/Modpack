@@ -1,0 +1,6 @@
+{
+	"parent": "computercraft:block/turtle_base",
+	"textures": {
+		"particle": "computercraft:block/turtle_normal"
+	}
+}

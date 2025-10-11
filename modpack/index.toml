@@ -1822,11 +1822,6 @@ hash = "230b7ff87ed425843c71bc2d02f25b91a9e3329661d5350e573a39c2abd68554"
 metafile = true
 
 [[files]]
-file = "mods/chat-heads.pw.toml"
-hash = "de0ab85ea06d797c2b3b5c70c8f1fdfc1f76fb2530f792a89f4f6d9807fc649a"
-metafile = true
-
-[[files]]
 file = "mods/chatanimation.pw.toml"
 hash = "ae09f4be75a77d041ef0752e9791b0287859543f502fc901bab276faee759678"
 metafile = true
@@ -2564,11 +2559,6 @@ metafile = true
 [[files]]
 file = "mods/the-bumblezone.pw.toml"
 hash = "b3b1b64a93b222e5b0fb8cd638264fe22c20afe5817eb78654a50fb9409590e4"
-metafile = true
-
-[[files]]
-file = "mods/theemporium.pw.toml"
-hash = "ceada75d9422638ea6ce70427278e92bdb023c0b72ff03461e9117d112585155"
 metafile = true
 
 [[files]]

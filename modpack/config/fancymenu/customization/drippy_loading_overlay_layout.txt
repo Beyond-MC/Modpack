@@ -3,13 +3,13 @@ type = fancymenu_layout
 layout-meta {
   identifier = drippy_loading_overlay
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1759532680720
+  last_edited_time = 1760402831034
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:b6ab8cbd-11cc-44ad-b7be-252939d7b05b-1759530292499] = [groups:][instances:]
+  [loading_requirement_container_meta:8896ab3b-36ec-4af0-bc99-10757407dc82-1760402809058] = [groups:][instances:]
 }
 
 menu_background {
@@ -59,10 +59,10 @@ element {
   auto_sizing_base_screen_height = 1080
   sticky_anchor = false
   anchor_point = mid-centered
-  x = -57
-  y = -34
-  width = 223
-  height = 72
+  x = -49
+  y = -25
+  width = 189
+  height = 61
   stretch_x = false
   stretch_y = false
   stay_on_screen = true
@@ -79,7 +79,7 @@ element {
 }
 
 element {
-  source = [source:local]/config/fancymenu/assets/loadingscreen/helian_industries3.png
+  source = [source:local]/config/fancymenu/assets/loadingscreen/logonoanimation.png
   repeat_texture = false
   nine_slice_texture = false
   nine_slice_texture_border_x = 5
@@ -99,7 +99,7 @@ element {
   auto_sizing_base_screen_height = 1080
   sticky_anchor = false
   anchor_point = mid-centered
-  x = -157
+  x = -150
   y = -54
   width = 103
   height = 106
@@ -150,8 +150,8 @@ vanilla_button {
   fade_out_speed = 1.0
   base_opacity = 1.0
   auto_sizing = false
-  auto_sizing_base_screen_width = 0
-  auto_sizing_base_screen_height = 0
+  auto_sizing_base_screen_width = 1920
+  auto_sizing_base_screen_height = 1080
   sticky_anchor = false
   anchor_point = vanilla
   x = 140

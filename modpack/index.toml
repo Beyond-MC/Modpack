@@ -1727,6 +1727,11 @@ hash = "f54f8bc9d73e9dcf720235398fb324dda72accf4331ff0e5e660d2f98441cffc"
 metafile = true
 
 [[files]]
+file = "mods/alltheleaks.pw.toml"
+hash = "b26798ffad97e9625a6653dd647240cad46c3f075680180be43a8fc202c1c82b"
+metafile = true
+
+[[files]]
 file = "mods/amplified-nether.pw.toml"
 hash = "e63323ef22e8672030d1b6c4d10572b36c9684e76093d953f1ca4fa51d30c700"
 metafile = true
@@ -2304,11 +2309,6 @@ metafile = true
 [[files]]
 file = "mods/melody.pw.toml"
 hash = "c9f8bce06b85e4dbfdaecc7d0930bf7f4fabccc7967f867b7eb7acb8dd5b77a7"
-metafile = true
-
-[[files]]
-file = "mods/memoryleakfix.pw.toml"
-hash = "ade41e4315735aa9116a0222b332e03d3f8df6eea301764d40d0bdc40f5e8689"
 metafile = true
 
 [[files]]

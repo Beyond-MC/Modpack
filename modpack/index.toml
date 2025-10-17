@@ -1752,6 +1752,11 @@ hash = "4e81241ba2da06f425efc5e09fb6b38470125c1581c39e1310c5843a0b96ec76"
 metafile = true
 
 [[files]]
+file = "mods/armor-poser.pw.toml"
+hash = "ed27ab2a21513281ff8ef8ab7ac581944288f6b4f1245f41c0bcb735c35630f4"
+metafile = true
+
+[[files]]
 file = "mods/athena-ctm.pw.toml"
 hash = "e11ddca37c00c8cdf8ee89c7b59df544f50966d2d6c5b016916f023afb98c02e"
 metafile = true

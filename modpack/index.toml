@@ -1927,11 +1927,6 @@ hash = "a6feb15f78ee7192942287790965b40412221ac822985fdb18f05605fc951d78"
 metafile = true
 
 [[files]]
-file = "mods/create-songs-and-speakers-iam-music-player-fork.pw.toml"
-hash = "1edda04a1aa9bcae57981477a9f3ba950b5355a42c03977d4139143fb0ea603b"
-metafile = true
-
-[[files]]
 file = "mods/create-utilities.pw.toml"
 hash = "448ef7a4a3d83079e682a55d10e41f8ae5df430043b60dd7061d3268e72d8b35"
 metafile = true
@@ -2634,6 +2629,11 @@ metafile = true
 [[files]]
 file = "mods/watermedia.pw.toml"
 hash = "87738e19da36bbc59ab8ed247ad3986eedbfeb3d70b6b2f8e21150514f0eba58"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "bd1dc13316e2aa9b56c89e7e974057f8da8d6bbfe707ba4210109fc612b782e3"
 metafile = true
 
 [[files]]

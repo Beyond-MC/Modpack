@@ -3,14 +3,14 @@ type = fancymenu_layout
 layout-meta {
   identifier = %fancymenu:universal_layout%
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1758926364252
+  last_edited_time = 1760893058878
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
   universal_layout_blacklist = title_screen_layout;title_screen;inventory_screen;
-  [loading_requirement_container_meta:ef1598eb-d35f-497e-8f8f-c8d57b2e8c2c-1758926357962] = [groups:][instances:]
+  [loading_requirement_container_meta:a8fe2048-25c3-4678-bc80-6e3a3fb1f264-1760893055368] = [groups:][instances:]
 }
 
 customization {
@@ -35,66 +35,5 @@ scroll_list_customization {
 }
 
 layout_action_executable_blocks {
-}
-
-element {
-  button_element_executable_block_identifier = 237c0164-3921-45b3-86ee-8182794d23af-1758352278337
-  [executable_block:237c0164-3921-45b3-86ee-8182794d23af-1758352278337][type:generic] = [executables:]
-  backgroundnormal = [source:local]/config/fancymenu/assets/background.png
-  backgroundhovered = [source:local]/config/fancymenu/assets/background_hover.png
-  background_texture_inactive = [source:local]/config/fancymenu/assets/background_hover.png
-  restartbackgroundanimations = true
-  nine_slice_custom_background = false
-  nine_slice_border_x = 5
-  nine_slice_border_y = 5
-  hoversound = [source:local]/config/fancymenu/assets/sounds/scroll.wav
-  clicksound = [source:local]/config/fancymenu/assets/sounds/select.wav
-  label = &6TEMPLATE
-  navigatable = true
-  widget_active_state_requirement_container_identifier = bdb4f86d-be33-478a-9fc0-95298bbb4ec6-1758352278337
-  [loading_requirement_container_meta:bdb4f86d-be33-478a-9fc0-95298bbb4ec6-1758352278337] = [groups:][instances:]
-  is_template = true
-  template_apply_width = false
-  template_apply_height = false
-  template_apply_posx = false
-  template_apply_posy = false
-  template_apply_opacity = false
-  template_apply_visibility = false
-  template_apply_label = false
-  template_share_with = buttons
-  nine_slice_slider_handle = false
-  nine_slice_slider_handle_border_x = 5
-  nine_slice_slider_handle_border_y = 5
-  element_type = custom_button
-  instance_identifier = 22869a6d-cf64-4375-8ecf-cbb71e5f1c3c-1758352278337
-  appearance_delay = no_delay
-  appearance_delay_seconds = 1.0
-  fade_in_v2 = no_fading
-  fade_in_speed = 1.0
-  fade_out = no_fading
-  fade_out_speed = 1.0
-  base_opacity = 1.0
-  auto_sizing = false
-  auto_sizing_base_screen_width = 1920
-  auto_sizing_base_screen_height = 1080
-  sticky_anchor = false
-  anchor_point = mid-centered
-  x = -14
-  y = -154
-  width = 100
-  height = 20
-  stretch_x = false
-  stretch_y = false
-  stay_on_screen = true
-  element_loading_requirement_container_identifier = 253450a5-0260-45dd-bf0f-9d79fca96e6f-1758352278337
-  [loading_requirement_container_meta:253450a5-0260-45dd-bf0f-9d79fca96e6f-1758352278337] = [groups:][instances:]
-  enable_parallax = false
-  parallax_intensity_v2 = 0.5
-  invert_parallax = false
-  animated_offset_x = 0
-  animated_offset_y = 0
-  load_once_per_session = false
-  in_editor_color = #FFC800FF
-  layer_hidden_in_editor = false
 }
 

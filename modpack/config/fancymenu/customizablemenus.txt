@@ -33,9 +33,6 @@ net.minecraft.client.gui.screens.packs.PackSelectionScreen {
 net.minecraft.client.gui.screens.LanguageSelectScreen {
 }
 
-net.minecraft.client.gui.screens.worldselection.SelectWorldScreen {
-}
-
 net.minecraftforge.client.gui.ModListScreen {
 }
 
@@ -52,5 +49,8 @@ net.minecraft.client.gui.screens.TitleScreen {
 }
 
 net.minecraft.client.gui.screens.multiplayer.JoinMultiplayerScreen {
+}
+
+net.minecraft.client.gui.screens.worldselection.SelectWorldScreen {
 }
 

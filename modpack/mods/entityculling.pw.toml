@@ -1,5 +1,5 @@
 name = "Entity Culling"
-filename = "entityculling-forge-1.8.2-mc1.20.1.jar"
+filename = "PERFORMANCE_entityculling_1.8.2.jar"
 side = "client"
 
 [download]

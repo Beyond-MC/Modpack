@@ -1,5 +1,5 @@
 name = "FastBoot"
-filename = "fastboot-1.20.x-1.2.jar"
+filename = "PERFORMANCE_fastboot_1.2.jar"
 side = "client"
 
 [download]

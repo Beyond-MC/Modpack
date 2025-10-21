@@ -1,5 +1,5 @@
 name = "Iris & Oculus Flywheel Compat"
-filename = "oculus-flywheel-compat-Forge-2.0.3.jar"
+filename = "iris-flw-compat_2.0.3.jar"
 side = "client"
 
 [download]

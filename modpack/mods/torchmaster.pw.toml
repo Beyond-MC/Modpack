@@ -1,5 +1,5 @@
 name = "TorchMaster"
-filename = "torchmaster-20.1.9.jar"
+filename = "torchmaster_20.1.9.jar"
 side = "both"
 
 [download]

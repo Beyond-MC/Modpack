@@ -1,5 +1,5 @@
 name = "[EMF] Entity Model Features"
-filename = "entity_model_features_forge_1.20.1-2.4.1.jar"
+filename = "entity-model-features_2.4.1.jar"
 side = "client"
 
 [download]

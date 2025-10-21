@@ -1,5 +1,5 @@
 name = "Kotlin for Forge"
-filename = "kotlinforforge-4.11.0-all.jar"
+filename = "kotlin-for-forge_4.11.0.jar"
 side = "both"
 
 [download]

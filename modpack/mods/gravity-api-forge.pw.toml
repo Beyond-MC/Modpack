@@ -1,5 +1,5 @@
 name = "Gravity API (Forge)"
-filename = "gravityapi-1.0.0-all.jar"
+filename = "gravity-api-forge_1.0.0.jar"
 side = "both"
 
 [download]

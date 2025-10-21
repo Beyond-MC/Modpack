@@ -1,5 +1,5 @@
 name = "[Let's Do Addon] EMI Compat"
-filename = "emi-letsdo-compat-1.7.jar"
+filename = "lets-do-emi-compat_1.7.jar"
 side = "client"
 
 [download]

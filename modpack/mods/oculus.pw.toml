@@ -1,5 +1,5 @@
 name = "Oculus"
-filename = "oculus-mc1.20.1-1.8.0.jar"
+filename = "oculus_1.8.0.jar"
 side = "client"
 
 [download]

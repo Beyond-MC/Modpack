@@ -1,5 +1,5 @@
 name = "spark"
-filename = "spark-1.10.53-forge.jar"
+filename = "TOOL_spark-1.10.53.jar"
 side = "both"
 
 [download]

@@ -1,5 +1,5 @@
 name = "Drippy Loading Screen"
-filename = "drippyloadingscreen_forge_3.0.12_MC_1.20.1.jar"
+filename = "drippy-loading-screen_3.0.12.jar"
 side = "client"
 
 [download]

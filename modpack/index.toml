@@ -2432,6 +2432,11 @@ hash = "779155317471577b1c73d66584bf2a43bb358662efcf984ced59e0b993a22f62"
 metafile = true
 
 [[files]]
+file = "mods/redirected.pw.toml"
+hash = "e6a6271d5f360df60467751651242b3eb6cc86f3e1fb94def2b32427080f7bd7"
+metafile = true
+
+[[files]]
 file = "mods/refurbished-furniture.pw.toml"
 hash = "d0bf99ee6738fe077f5da39695f8f04aaa5fc25b5aad9387310d9d6134759500"
 metafile = true
@@ -2599,6 +2604,11 @@ metafile = true
 [[files]]
 file = "mods/tree-harvester.pw.toml"
 hash = "d6ddde622109dc5072e84fc6493c44950314594864a74495d898bcefbd3f2e8b"
+metafile = true
+
+[[files]]
+file = "mods/txnilib.pw.toml"
+hash = "a3518a26f5d268ba07c84fffceb3409e0e5e45cc1c231e1e10715b3b63da69cd"
 metafile = true
 
 [[files]]

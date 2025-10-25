@@ -1,6 +1,6 @@
 name = "You Shall Not Spawn!"
 filename = "TOOL_you-shall-not-spawn_2.0.2.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/EjXcpmEA/versions/cOtszKAy/YouShallNotSpawn-forge-1.20.x-2.0.2.jar"

@@ -25,7 +25,7 @@ toggleSprint:false
 darkMojangStudiosBackground:false
 hideLightningFlashes:false
 mouseSensitivity:0.5
-fov:0.55
+fov:0.5
 screenEffectScale:1.0
 fovEffectScale:1.0
 darknessEffectScale:1.0
@@ -45,7 +45,7 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:7
 renderClouds:"false"
-resourcePacks:["vanilla","netherexp:jne_emissive","mod_resources","fabric","netherexp:jne_retextures"]
+resourcePacks:["vanilla","netherexp:jne_emissive","mod_resources","fabric","netherexp:jne_retextures","scholar:colored_books","scholar:chiseled_bookshelf_colored_books"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
@@ -87,8 +87,8 @@ onlyShowSecureChat:false
 panoramaScrollSpeed:1.0
 telemetryOptInExtra:false
 onboardAccessibility:false
-soundCategory_master:0.0971302428256071
-soundCategory_music:0.0
+soundCategory_master:0.30022075055187647
+soundCategory_music:0.403755868544601
 soundCategory_record:0.46244131455399073
 soundCategory_weather:0.0
 soundCategory_block:1.0

@@ -2502,6 +2502,11 @@ hash = "fe2fccdae540a4eb5629b6a77e640972307d38e7e5f41848129f87741e5aff80"
 metafile = true
 
 [[files]]
+file = "mods/sidekick.pw.toml"
+hash = "3734213938fff7c7d25e417bdc3145f95db023b504d7ed7de75ca7a1dbe1e5e7"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "7451fffd4702db08b9d04aca87ec103c1694e2370bd8c7ced7e379a9f1e10816"
 metafile = true

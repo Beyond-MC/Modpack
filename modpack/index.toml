@@ -2067,6 +2067,11 @@ hash = "eeca094798607a0393a5ec261a0f3298e20fa74b0daa879951aec47c2c7fe64b"
 metafile = true
 
 [[files]]
+file = "mods/fakename__ver_kadzu.pw.toml"
+hash = "9b055494fda705b23ff1a0c6f620893537a54b14db2112dc2a634c2c9737864f"
+metafile = true
+
+[[files]]
 file = "mods/fancymenu.pw.toml"
 hash = "2f23491c650ffa8f2758ea80e98da56e9a6791551fa5dc9eb995434a55f58785"
 metafile = true

@@ -1,0 +1,13 @@
+name = "Fakename(unofficial)"
+filename = "TOOL_fakename_1.20.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/qfjB9Ndb/versions/3n72p2N0/fakename_-1.20.1-ver_kadzu.jar"
+hash-format = "sha512"
+hash = "3a41187fe121835dbc7db7c7bf69537620013031719b3cc425a3ea35013af2074ad89f0d684c9460dddd609ff6b0ef4e27e5ae3cc28ead9d3042bbd6476fd83f"
+
+[update]
+[update.modrinth]
+mod-id = "qfjB9Ndb"
+version = "3n72p2N0"

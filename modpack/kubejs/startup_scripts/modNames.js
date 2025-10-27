@@ -1,0 +1,1 @@
+Platform.mods.biomesoplenty.name = "Biomes O' Pl3nty"

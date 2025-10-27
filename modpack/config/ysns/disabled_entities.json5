@@ -18,6 +18,7 @@
     "minecraft:skeleton",
     "minecraft:zombie_villager",
     "minecraft:spider",
+    "scguns:redcoat",
     "!zoe:.*"
   ],
   // Don't touch this!

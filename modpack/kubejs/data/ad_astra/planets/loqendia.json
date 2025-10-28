@@ -1,7 +1,7 @@
 {
   "dimension": "thermal_shock:loqendia",
   "gravity": 9.807,
-  "orbit": "ad_astra:earth_orbit",
+  "orbit": "beyond:loqendia_orbit",
   "oxygen": true,
   "solar_power": 16,
   "solar_system": "ad_astra:solar_system",

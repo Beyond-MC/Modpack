@@ -57,3 +57,6 @@ net.minecraft.client.gui.screens.worldselection.SelectWorldScreen {
 net.minecraft.client.gui.screens.PauseScreen {
 }
 
+io.wispforest.accessories.client.gui.AccessoriesScreen {
+}
+

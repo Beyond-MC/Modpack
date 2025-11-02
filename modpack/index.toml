@@ -2432,6 +2432,11 @@ hash = "d485aaf11f675a0dd4790f4c04789a6d18a5ec74cb5a071e83f82b4949944a6e"
 metafile = true
 
 [[files]]
+file = "mods/player-clone.pw.toml"
+hash = "b6da36447e710d73768bc9e580f077b07955b3597ebcab704470f4e0bda0ece0"
+metafile = true
+
+[[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "765987a78e5d8c782d0da2de99998b43b5907d6c41347d3804045ad109e4a586"
 metafile = true
@@ -2599,6 +2604,11 @@ metafile = true
 [[files]]
 file = "mods/switchy.pw.toml"
 hash = "7c5196336666230027f48e26fe7f0b43048f76a6ba52c839cb6702a0795f15ac"
+metafile = true
+
+[[files]]
+file = "mods/table-top-craft.pw.toml"
+hash = "d8a0355cf4da9ce96dadbec3fa67a0ffa81132c72c3184f03b6bd30cb2669e08"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Player Clone"
+filename = "TOOL_player-clone_0.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/I4ic4JJf/versions/VnLwxCRz/playerclone-0.1.0%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "60bf96eeff7b083beba0774629e08c4db1042cdaba5ae305c5925190451725a954e7f4506aaa6d9d5793a47cfc5590ffee6f33960a5048c8a49483a0d67aed57"
+
+[update]
+[update.modrinth]
+mod-id = "I4ic4JJf"
+version = "VnLwxCRz"

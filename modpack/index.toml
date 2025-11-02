@@ -2092,11 +2092,6 @@ hash = "2f23491c650ffa8f2758ea80e98da56e9a6791551fa5dc9eb995434a55f58785"
 metafile = true
 
 [[files]]
-file = "mods/farmers-delight.pw.toml"
-hash = "7b846273c5cbc4d0eb1f3d0eb4802b0e81e54dea84cf25666015ca50931fe307"
-metafile = true
-
-[[files]]
 file = "mods/fastboot.pw.toml"
 hash = "d4b18897dbe6c897b49afd13ccd6402c6a8aeb4935e94e98414d594a4f67791f"
 metafile = true
@@ -2154,11 +2149,6 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "a3d9047f4cca960840f572b1a0ff3ef2cd881e0a1b5a6783ac0ce333097b99c9"
-metafile = true
-
-[[files]]
-file = "mods/gensokyo-delight-youkais-feasts.pw.toml"
-hash = "0357258a83965d3ba95c74cbb889440df2dcd5821c096f48ede2cfba099e8a68"
 metafile = true
 
 [[files]]
@@ -2319,6 +2309,11 @@ metafile = true
 [[files]]
 file = "mods/macaws-windows.pw.toml"
 hash = "dd8c35f46e1998175f993fa3acfc8b17600a1c031d62e273474232299d698afa"
+metafile = true
+
+[[files]]
+file = "mods/manors-bounty.pw.toml"
+hash = "c17dafa0f664fce724ea315a2e53d865a8a41dae448c2f525867bf984ee83ba4"
 metafile = true
 
 [[files]]

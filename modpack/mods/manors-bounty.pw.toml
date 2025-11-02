@@ -1,0 +1,13 @@
+name = "Manor's Bounty"
+filename = "manors_bounty-0.3.1.1-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4vM781yC/versions/YaZHfIws/manors_bounty-0.3.1.1-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "8f52df54a09214298224d9e3a236f1b9b570c601a595aa318768c64a7910c731c0796484df0f3f842d8fc135d2705cc047e8c95f5012fc071684c142d25245e2"
+
+[update]
+[update.modrinth]
+mod-id = "4vM781yC"
+version = "YaZHfIws"

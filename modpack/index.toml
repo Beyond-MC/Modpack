@@ -2642,6 +2642,11 @@ hash = "a3518a26f5d268ba07c84fffceb3409e0e5e45cc1c231e1e10715b3b63da69cd"
 metafile = true
 
 [[files]]
+file = "mods/underground-village,-stoneholm.pw.toml"
+hash = "b7f33418d7c9168916854ccd431b91c403098e33d90ecef2db325cbdc9c9fa3a"
+metafile = true
+
+[[files]]
 file = "mods/unusual-furniture.pw.toml"
 hash = "2a8b8d17fb38cda5e7c85d8fe1dfcfd8f377dd05ce543d18f5ee285d5c86fcff"
 metafile = true

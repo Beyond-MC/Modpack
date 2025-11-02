@@ -2592,6 +2592,11 @@ hash = "7c5196336666230027f48e26fe7f0b43048f76a6ba52c839cb6702a0795f15ac"
 metafile = true
 
 [[files]]
+file = "mods/table-top-craft.pw.toml"
+hash = "d8a0355cf4da9ce96dadbec3fa67a0ffa81132c72c3184f03b6bd30cb2669e08"
+metafile = true
+
+[[files]]
 file = "mods/tempad.pw.toml"
 hash = "0ebc212bb83219ecd2b24d3943ab84a905c5f0963b04755fcf816d3b7744dc6b"
 metafile = true

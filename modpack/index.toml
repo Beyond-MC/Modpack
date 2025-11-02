@@ -1942,6 +1942,11 @@ hash = "a6feb15f78ee7192942287790965b40412221ac822985fdb18f05605fc951d78"
 metafile = true
 
 [[files]]
+file = "mods/create-structures-arise.pw.toml"
+hash = "aa918c978fa7ded1e6fb920d408c97e174c9341c0ebaf9a3f7437d396c10d161"
+metafile = true
+
+[[files]]
 file = "mods/create-utilities.pw.toml"
 hash = "448ef7a4a3d83079e682a55d10e41f8ae5df430043b60dd7061d3268e72d8b35"
 metafile = true

@@ -1982,6 +1982,11 @@ hash = "af6e9935fcfdc98b37c46d56e23ce9ca4f0c36be50c7e840a23e9908d248fca8"
 metafile = true
 
 [[files]]
+file = "mods/disable-structures.pw.toml"
+hash = "aa0e9228224f3eb7a92c67517c7c11e185c70951c9cfbff92ad13ae7f130a6ed"
+metafile = true
+
+[[files]]
 file = "mods/do-api.pw.toml"
 hash = "35e3ed00b7e0b2a3082ed35c677589ca762cd73e18858ad6ba7a4b6f7cdef441"
 metafile = true

@@ -1,0 +1,13 @@
+name = "Disable Structures"
+filename = "DisableStructures-1.20.1-1.0.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/OAbHh6LQ/versions/vwz96OGU/DisableStructures-1.20.1-1.0.1.jar"
+hash-format = "sha512"
+hash = "19f51695cc197b4aab007404966a3b01eb1ac5f383be6c059f0d861bf966a4a6fe0eaacebe0a396ca07e7840262deff7b903d2e8a17c4d5a5c3a2e0fa8d86cd2"
+
+[update]
+[update.modrinth]
+mod-id = "OAbHh6LQ"
+version = "vwz96OGU"

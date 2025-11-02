@@ -9,3 +9,4 @@
 - Scorched guns -> [GNU License](https://www.curseforge.com/minecraft/mc-mods/scorched-guns#license)
 - Orbital Railgun Reforged -> [MIT License](https://www.curseforge.com/minecraft/mc-mods/orbital-railgun-reforged#license)
 - AllTheLeaks -> [MIT License](https://www.curseforge.com/minecraft/mc-mods/alltheleaks#license)
+- IDog -> [MIT License](https://www.curseforge.com/minecraft/mc-mods/idog#license)

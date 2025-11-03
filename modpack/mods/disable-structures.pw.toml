@@ -1,6 +1,6 @@
 name = "Disable Structures"
 filename = "TOOL_disable-structures_1.0.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/OAbHh6LQ/versions/vwz96OGU/DisableStructures-1.20.1-1.0.1.jar"

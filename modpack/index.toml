@@ -2707,6 +2707,11 @@ hash = "bd1dc13316e2aa9b56c89e7e974057f8da8d6bbfe707ba4210109fc612b782e3"
 metafile = true
 
 [[files]]
+file = "mods/worldeditcui-forge.pw.toml"
+hash = "02750acec3b73b203a2441f78ad4749650d4768ab2db9c4083a1c09ee421eb0f"
+metafile = true
+
+[[files]]
 file = "mods/you-shall-not-spawn.pw.toml"
 hash = "f041c9b6ed651b6d665a5ad0188c3d36fa2ce40b21c6527ddcabfd0df94cde40"
 metafile = true

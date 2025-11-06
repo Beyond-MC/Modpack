@@ -2102,11 +2102,6 @@ hash = "053e83265aa37803cc79ea08843645d8d3a77c6b5ef2afff95c3a3e81aeaaad3"
 metafile = true
 
 [[files]]
-file = "mods/fdlib.pw.toml"
-hash = "c5d5bde77cc9ab0bc59fa39e3224e6e9b556f754c70c898a0f7fe2c657657205"
-metafile = true
-
-[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "902bac905b93271f02bd0951a22bac06a3da24f5c237fcaeb469e14a7679e508"
 metafile = true
@@ -2449,11 +2444,6 @@ metafile = true
 [[files]]
 file = "mods/polymorph.pw.toml"
 hash = "4ab869d8784f4ac318b5c92fa3d9e65f997352b8b57f34b409ca6f171637f0fe"
-metafile = true
-
-[[files]]
-file = "mods/qliphoth-awakening.pw.toml"
-hash = "db94626e495f0458120cd1340b57886db1d7c8faaf61571b5df591e15d8f52be"
 metafile = true
 
 [[files]]

@@ -2617,11 +2617,6 @@ hash = "6f750aa32487a8cc89ebbaf0eed062c23209fe61c04540b42f2dd68e7d379886"
 metafile = true
 
 [[files]]
-file = "mods/thermal-shock.pw.toml"
-hash = "5bd1dd7cd0df89ffd21c12d72a63f8227ff12da7827458d3a664f58dcdbed544"
-metafile = true
-
-[[files]]
 file = "mods/tmrv.pw.toml"
 hash = "ab79dd5c567f7c409b95bef167961b58ac95531be8ffd0542190cb17701db6c0"
 metafile = true

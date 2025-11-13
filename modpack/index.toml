@@ -1802,11 +1802,6 @@ hash = "76bd79efa8a74ead2c6984d01fc313a1175225493d6cfddd954a54cabb7d1d2d"
 metafile = true
 
 [[files]]
-file = "mods/biomes-o-plenty.pw.toml"
-hash = "2bcea8e16d358942a8f8b8cf6e39cc303d90fac29b1b3ecb8033bd214d4afa0f"
-metafile = true
-
-[[files]]
 file = "mods/bl4cks-sit.pw.toml"
 hash = "a45bbe1f9c5947251c59bb51adfb7493e4023d5728dab1e6b8f116fdf8bf896f"
 metafile = true
@@ -2469,6 +2464,11 @@ metafile = true
 [[files]]
 file = "mods/refurbished-furniture.pw.toml"
 hash = "d0bf99ee6738fe077f5da39695f8f04aaa5fc25b5aad9387310d9d6134759500"
+metafile = true
+
+[[files]]
+file = "mods/regions-unexplored.pw.toml"
+hash = "cc64ca541c4710726dc3fa4b283b1260cfb2d3ff8d1784f80e0180d248c35688"
 metafile = true
 
 [[files]]

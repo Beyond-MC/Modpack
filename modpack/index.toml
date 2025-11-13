@@ -2612,6 +2612,11 @@ hash = "14117b94c456598c9acece143c7a0da3cf56d13182d035a74a2da8a52dd19cbd"
 metafile = true
 
 [[files]]
+file = "mods/terrablenderfix.pw.toml"
+hash = "daef032d7a31fe047da98d779457a9d794940ff79a5315855da6c578be0795f6"
+metafile = true
+
+[[files]]
 file = "mods/the-bumblezone.pw.toml"
 hash = "6f750aa32487a8cc89ebbaf0eed062c23209fe61c04540b42f2dd68e7d379886"
 metafile = true

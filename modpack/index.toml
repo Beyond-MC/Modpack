@@ -2613,7 +2613,7 @@ metafile = true
 
 [[files]]
 file = "mods/the-bumblezone.pw.toml"
-hash = "b3b1b64a93b222e5b0fb8cd638264fe22c20afe5817eb78654a50fb9409590e4"
+hash = "6f750aa32487a8cc89ebbaf0eed062c23209fe61c04540b42f2dd68e7d379886"
 metafile = true
 
 [[files]]

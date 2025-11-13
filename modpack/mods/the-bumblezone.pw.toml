@@ -1,13 +1,13 @@
 name = "The Bumblezone - NeoForge/Forge"
-filename = "WORLDGEN_the-bumblezone_7.8.3.jar"
+filename = "WORLDGEN_the-bumblezone_7.9.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/38tpSycf/versions/aGlAIlzO/the_bumblezone-7.8.3%2B1.20.1-forge.jar"
+url = "https://cdn.modrinth.com/data/38tpSycf/versions/WveH551t/the_bumblezone-7.9.4%2B1.20.1-forge.jar"
 hash-format = "sha512"
-hash = "eb05bb0c827c6763b2ad9a4871f2bfbe3b5ffda198001ff491b8d84f459baf2c18f5188b95bb810f7c03c15403e294a777154e06c089fc0265ce4a1d282db1ca"
+hash = "25e2f1148c2add94b6729ba60c955888111a2dbff2f8b2c93abf63150f24c80af8c49c5ca388ee666d68711ed0b4dc00ca232191d460bc9bb96409bdfba2bd36"
 
 [update]
 [update.modrinth]
 mod-id = "38tpSycf"
-version = "aGlAIlzO"
+version = "WveH551t"

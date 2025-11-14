@@ -2237,6 +2237,11 @@ hash = "7ea985404ee4cc9082472c6869ec146309f526e395361b39f2f4c1a43506c41d"
 metafile = true
 
 [[files]]
+file = "mods/krypton-fnp.pw.toml"
+hash = "d99d1c2d31ef8198c37c853676c71017ed2304d267d0590cbcb6c3658f674d0f"
+metafile = true
+
+[[files]]
 file = "mods/kubejs.pw.toml"
 hash = "b6ed220c9069f60704dbfe19fd55c976ca56ada35bcb6918c4ad226cd842b99c"
 metafile = true
@@ -2507,8 +2512,8 @@ hash = "343a6fac3ce825126b4b1ab196ce7b3f87c0477308cab3edbe1f156374a34e18"
 metafile = true
 
 [[files]]
-file = "mods/scorched-guns.pw.toml"
-hash = "928bba3e23adf5b31d68eb63c15a5aded0a6feacd22ef2e2ed5a5c7e64ba8438"
+file = "mods/scorched-guns-2.pw.toml"
+hash = "2669476c76fc0701a3cb25d5dabe58f8690a404882dd8f2e82cb78142b9158e0"
 metafile = true
 
 [[files]]

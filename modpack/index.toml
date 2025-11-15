@@ -2202,11 +2202,6 @@ hash = "0fbcc8cf03336e6bed425e2115fc4ff1a3a05be5c655228b305e70380eb08b57"
 metafile = true
 
 [[files]]
-file = "mods/jadens-nether-expansion.pw.toml"
-hash = "18fdaa8b6729867b1862ea80eba84effc90f63b8d230eb529c5a949b30ae2695"
-metafile = true
-
-[[files]]
 file = "mods/jinxedlib.pw.toml"
 hash = "05e33822164b9f498943e51e9502aefadb504ec1551174bad7e96e8066d2f35a"
 metafile = true

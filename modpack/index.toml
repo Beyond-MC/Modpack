@@ -1862,6 +1862,11 @@ hash = "0bdcf1c5057873c78db71bee196ccf5ec846f6cf82f639b094668b3ba92e151f"
 metafile = true
 
 [[files]]
+file = "mods/clanging-howl.pw.toml"
+hash = "071c65f6fefe821bd9fe9cab0a0eb57c42d976d88a24d6082cac9d58a4f5246c"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "e3dd03e7fec88831974857e2cdded54dd5c5bdcaa3f6d6248c2800e82db4dd41"
 metafile = true

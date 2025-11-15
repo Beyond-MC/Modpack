@@ -1,0 +1,13 @@
+name = "Clanging Howl"
+filename = "clanging-howl-[Forge]_1.20.1_1.0.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "87e59f2b3a92d41ab192ce1c8275caccfde9df5c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7203667
+project-id = 1367022

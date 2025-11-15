@@ -1742,6 +1742,11 @@ hash = "b26798ffad97e9625a6653dd647240cad46c3f075680180be43a8fc202c1c82b"
 metafile = true
 
 [[files]]
+file = "mods/amendments.pw.toml"
+hash = "4eb0979fd7cada4b6e3dd3fec8ced79ee0892e2b7ffba6466430387cd520acee"
+metafile = true
+
+[[files]]
 file = "mods/amplified-nether.pw.toml"
 hash = "e63323ef22e8672030d1b6c4d10572b36c9684e76093d953f1ca4fa51d30c700"
 metafile = true

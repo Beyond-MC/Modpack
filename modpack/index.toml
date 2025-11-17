@@ -1777,11 +1777,6 @@ hash = "e11ddca37c00c8cdf8ee89c7b59df544f50966d2d6c5b016916f023afb98c02e"
 metafile = true
 
 [[files]]
-file = "mods/axiom.pw.toml"
-hash = "354a23e95a756fa2e8110b4d93a58e97c83409c33cf683c27c495f51848f2f41"
-metafile = true
-
-[[files]]
 file = "mods/balm.pw.toml"
 hash = "94910057d9bf56c60c393a3cfe745f78c971005d74d9992462be7527c13315c2"
 metafile = true

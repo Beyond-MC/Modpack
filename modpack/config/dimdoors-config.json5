@@ -40,10 +40,10 @@
     "hardcoreLimbo": false,
     "limboReturnDistanceMax": 5000,
     "limboReturnDistanceMin": 0,
-    "decaySurroundings": true,
+    "decaySurroundings": false,
     "tryPlayerBedSpawn": false,
     "defaultToWorldSpawn": true,
-    "limboBlocksCorruptingExitWorldAmount": 5.0,
+    "limboBlocksCorruptingExitWorldAmount": 0.0,
     "escapeTargetWorld": "ad_astra:earth_orbit"
   },
   "graphics": {

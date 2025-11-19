@@ -2577,6 +2577,11 @@ hash = "7451fffd4702db08b9d04aca87ec103c1694e2370bd8c7ced7e379a9f1e10816"
 metafile = true
 
 [[files]]
+file = "mods/smooth-boot-reloaded.pw.toml"
+hash = "daf32b14b2274f7aae1cfc76dabd879a4a7f249fa41d039afab48d1d038d6aed"
+metafile = true
+
+[[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
 hash = "cd5515c632ebe07d835fbd0ee999bb5182fc027dd01a0df9234f16c1a36654d8"
 metafile = true

@@ -2437,6 +2437,11 @@ hash = "3ab8970e80d25686ebe4bf0747a96d116ab961ce6974aa815cc9fcbce5553b62"
 metafile = true
 
 [[files]]
+file = "mods/particular-reforged.pw.toml"
+hash = "5f75fbb8f143d973279a41625de4c1d4382c09f7f902e978b67071846a1ef535"
+metafile = true
+
+[[files]]
 file = "mods/pehkui.pw.toml"
 hash = "1f92dd360908c1801848dcd4d14aca5640199545e7e22e76bfdb981b06fa9399"
 metafile = true

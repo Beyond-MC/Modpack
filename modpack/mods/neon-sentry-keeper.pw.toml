@@ -1,0 +1,13 @@
+name = "Neon Sentry Keeper"
+filename = "neonsentrykeeper-1.20.1-1.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "88df2da0178ec0ec9a110f2b0626eba54569e381"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7132423
+project-id = 1358545

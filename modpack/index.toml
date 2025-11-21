@@ -2377,6 +2377,11 @@ hash = "1802dcd780c6deb02fb0d9251474f221077c7c80b8d673585ab59a93f4fe2abb"
 metafile = true
 
 [[files]]
+file = "mods/neon-sentry-keeper.pw.toml"
+hash = "a73abf809f32023dd7970edd627d3312163cdd5fdb9ca1e916ed8e50bded33ea"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "b849dfdaaa3e4ad635fb16595bfd6ae03b83de0c02f5b06faafb24cc33926f3f"
 metafile = true

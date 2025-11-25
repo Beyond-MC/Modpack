@@ -1,0 +1,10 @@
+{
+  "dimension": "dimdoors:limbo",
+  "gravity": 9.807,
+  "orbit": "beyond:cavum_tenebrae_orbit",
+  "oxygen": true,
+  "solar_power": 1,
+  "solar_system": "beyond:custom",
+  "temperature": 7,
+  "tier": 1
+}

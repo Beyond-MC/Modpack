@@ -1,0 +1,13 @@
+name = "Cyberspace"
+filename = "cyberspace 2.2.0 (F1.20.1).jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vR7IsaZr/versions/JP6el9hX/cyberspace%202.2.0%20%28F1.20.1%29.jar"
+hash-format = "sha512"
+hash = "952831c696b5470b60689ca880b7fb0ab72c6a5ae9e7672a7340305c3193aca717f9bf9282a1a41a5d1ff4ee19de5e444dfb9dd16127df635f69a6ad6af80dec"
+
+[update]
+[update.modrinth]
+mod-id = "vR7IsaZr"
+version = "JP6el9hX"

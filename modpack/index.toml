@@ -1972,6 +1972,11 @@ hash = "1d2a18adcc9626a77b7b66f9960a41cad9a6afda56d43ee8e9ecc30eb5f2204c"
 metafile = true
 
 [[files]]
+file = "mods/cyberspace.pw.toml"
+hash = "3b7b0996dbac8321d80590f4058c85eb09cbe8c0982ad9ee3ec784e7fe637217"
+metafile = true
+
+[[files]]
 file = "mods/dans-lightsabers.pw.toml"
 hash = "694dc53dc36c73b4ec77fea05288c1092e05cd1d7b316e70f827a09e7ecb43f4"
 metafile = true

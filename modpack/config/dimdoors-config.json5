@@ -55,7 +55,7 @@
   "doors": {
     "closeDoorBehind": true,
     "doorList": {
-      "mode": "ENABLE",
+      "mode": "DISABLE",
       "doors": []
     },
     "placeRiftsInCreativeMode": true

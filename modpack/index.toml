@@ -2387,6 +2387,11 @@ hash = "a73abf809f32023dd7970edd627d3312163cdd5fdb9ca1e916ed8e50bded33ea"
 metafile = true
 
 [[files]]
+file = "mods/nether-dungeons.pw.toml"
+hash = "a997b382402d2a7df0ded5e8fca87cce63337a5e41cdb2f1b9d9c734978cf5cd"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "b849dfdaaa3e4ad635fb16595bfd6ae03b83de0c02f5b06faafb24cc33926f3f"
 metafile = true

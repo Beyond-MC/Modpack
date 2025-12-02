@@ -1,0 +1,13 @@
+name = "Nether Dungeons"
+filename = "netherdungeons-1.1.0-snapshot4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/m9Ae6Puo/versions/d2OC02xw/netherdungeons-1.1.0-snapshot4.jar"
+hash-format = "sha512"
+hash = "b1ed87cb8931a05a736fb3c43377f7e95dc95c840a3ec2cb24c101c834e3efdf76d4da8b06e9fd98562e10d2334a041cad9960cf7988d8ea6dc4594515ad8870"
+
+[update]
+[update.modrinth]
+mod-id = "m9Ae6Puo"
+version = "d2OC02xw"

@@ -2,7 +2,7 @@
 #By default, the lightsaber damage is 30, but you can vary the damage by decreasing or increasing the damage percentage from 0.1 to 5.0, that is, from 10% to 500%.
 #(default value: 0.1)
 #Range: 0.1 ~ 5.0
-lightsaberDamagePercentage = 0.3
+lightsaberDamagePercentage = 0.7
 #Enable Kyber crystal generation (default: true)
-generateKyberCrystal = true
+generateKyberCrystal = false
 

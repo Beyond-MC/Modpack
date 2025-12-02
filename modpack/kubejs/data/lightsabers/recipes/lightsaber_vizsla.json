@@ -1,0 +1,15 @@
+{
+  "type": "lightsabers:ls_crafting",
+  "ingredients": [
+    {
+      "item": "lightsabers:circuit_netherite"
+    },
+    {
+      "item": "clanginghowl:extraterrestrial_energy_crystal"
+    }
+  ],
+  "output": {
+    "count": 1,
+    "item": "lightsabers:lightsaber_vizsla"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "type":"minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern":[
+    "AB ",
+    "CDC",
+    "EKE"
+  ],
+  "key":
+  {
+    "A":
+    {
+      "item":"minecraft:blue_stained_glass_pane"
+    },
+    "B":
+    {
+      "item":"minecraft:black_carpet"
+    },
+    "C":
+    {
+      "item":"minecraft:smooth_stone"
+    },
+    "D":
+    {
+      "item":"minecraft:crafting_table"
+    },
+    "E":
+    {
+      "item":"minecraft:iron_trapdoor"
+    },
+    "K":
+    {
+      "item":"lightsabers:circuit"
+    }
+  },
+  "result":
+  {
+    "item":"lightsabers:lightsabers_forge","count":1
+  }
+}

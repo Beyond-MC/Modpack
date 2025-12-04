@@ -1977,6 +1977,11 @@ hash = "3b7b0996dbac8321d80590f4058c85eb09cbe8c0982ad9ee3ec784e7fe637217"
 metafile = true
 
 [[files]]
+file = "mods/cyborg-robot-chicken-returns.pw.toml"
+hash = "67ee64d9493740c75a4e5d1da5cca2f45c743bc76287aa54b0a0a005b94e546d"
+metafile = true
+
+[[files]]
 file = "mods/dans-lightsabers.pw.toml"
 hash = "694dc53dc36c73b4ec77fea05288c1092e05cd1d7b316e70f827a09e7ecb43f4"
 metafile = true
@@ -2764,11 +2769,6 @@ metafile = true
 [[files]]
 file = "mods/zeta.pw.toml"
 hash = "4bcf74d4569def60ca031d565350952c2edcc420f26278bc7997654a77b6fb4d"
-metafile = true
-
-[[files]]
-file = "mods/zoe-isnt-cyberpunk.pw.toml"
-hash = "26ffa3f3bd28dfd643512bf7df28f94db67f543ed7ef8f22359bf5a7d98658de"
 metafile = true
 
 [[files]]

@@ -2162,11 +2162,6 @@ hash = "af1270987203e41ee2ac5a293bda1f4c49d6d2d40408431d92d61a5fc3eca82b"
 metafile = true
 
 [[files]]
-file = "mods/geckoanimfix.pw.toml"
-hash = "f78c94f42ffaf5365f45b58f83545ced3dc9ae0cf075412e7710079e163eed28"
-metafile = true
-
-[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "a3d9047f4cca960840f572b1a0ff3ef2cd881e0a1b5a6783ac0ce333097b99c9"
 metafile = true
@@ -2209,11 +2204,6 @@ metafile = true
 [[files]]
 file = "mods/inv-view-forge.pw.toml"
 hash = "c1be7ddccaa7f134cb66caee5a3b5d241356d58b7339f87ad311fd0e52a33d5f"
-metafile = true
-
-[[files]]
-file = "mods/iris-flw-compat.pw.toml"
-hash = "e9b05dcf29f12335bcbf61bbbc019cee3d5b983c49433e3fc23fcf4afe12e9d1"
 metafile = true
 
 [[files]]
@@ -2424,11 +2414,6 @@ metafile = true
 [[files]]
 file = "mods/octo-lib.pw.toml"
 hash = "4ee6b38fbd604374f4703b852ebe2119c6493ae09b88f6398ab256e423bd5d4a"
-metafile = true
-
-[[files]]
-file = "mods/oculus.pw.toml"
-hash = "f83b253ca6a8e6f2f847952704da0e1fb00e65cbb10b7c9cb15d1a1780618da0"
 metafile = true
 
 [[files]]

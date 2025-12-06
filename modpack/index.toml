@@ -1992,6 +1992,11 @@ hash = "e9dfcaebe165cb93ba4774f5c17bae14b5b82878593199539326f92519f59d5e"
 metafile = true
 
 [[files]]
+file = "mods/dimension-localized-inventories.pw.toml"
+hash = "fef7856fd60c1343557a30b038620e6509a0644d51b0064a6ef685767d2bdf9c"
+metafile = true
+
+[[files]]
 file = "mods/dimensionaldoors.pw.toml"
 hash = "b336a8ec620a9d52041e63b61c17e5857e8d6cb46cdbf4989066dec38ead21d3"
 metafile = true

@@ -1,13 +1,13 @@
 name = "Orbital Railgun Reforged"
-filename = "TECH_orbital-railgun-reforged_1.0.1.jar"
+filename = "TECH_orbital_railgun-1.4.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "7136c2c421d560467de00c0cc6d527a5b8dfd50f"
+hash = "bc52080ad2c0372ab05c6e189680caa4b6981302"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7066209
+file-id = 7292536
 project-id = 1358503

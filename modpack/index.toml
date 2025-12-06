@@ -2752,6 +2752,11 @@ hash = "f041c9b6ed651b6d665a5ad0188c3d36fa2ce40b21c6527ddcabfd0df94cde40"
 metafile = true
 
 [[files]]
+file = "mods/yukamis-sophisticated-backpack-tab.pw.toml"
+hash = "15afc2d4d8f2f87c91845aa723d3664af61f294c6de1a42baf8f2c6ce7f87cbb"
+metafile = true
+
+[[files]]
 file = "mods/zeta.pw.toml"
 hash = "4bcf74d4569def60ca031d565350952c2edcc420f26278bc7997654a77b6fb4d"
 metafile = true

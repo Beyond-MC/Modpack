@@ -2,9 +2,9 @@
   "dimension": "sgjourney:cavum_tenebrae",
   "gravity": 9.807,
   "orbit": "beyond:cavum_tenebrae_orbit",
-  "oxygen": true,
-  "solar_power": 16,
-  "solar_system": "beyond:custom",
-  "temperature": 15,
+  "oxygen": false,
+  "solar_power": 2,
+  "solar_system": "ad_astra:proxima_centauri",
+  "temperature": 7,
   "tier": 1
 }

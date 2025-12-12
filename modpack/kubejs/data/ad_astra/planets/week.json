@@ -1,5 +1,5 @@
 {
-  "dimension": "ad_astra:moon",
+  "dimension": "beyond:week",
   "gravity": 1.622,
   "orbit": "beyond:week_orbit",
   "oxygen": false,

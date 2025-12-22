@@ -2467,11 +2467,6 @@ hash = "d485aaf11f675a0dd4790f4c04789a6d18a5ec74cb5a071e83f82b4949944a6e"
 metafile = true
 
 [[files]]
-file = "mods/player-clone.pw.toml"
-hash = "b6da36447e710d73768bc9e580f077b07955b3597ebcab704470f4e0bda0ece0"
-metafile = true
-
-[[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "765987a78e5d8c782d0da2de99998b43b5907d6c41347d3804045ad109e4a586"
 metafile = true

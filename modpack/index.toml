@@ -2372,6 +2372,11 @@ hash = "02d8f73c4d1f35c4cd877ff6c988e2ea5fe35080e77a7a097b17c00233e62abc"
 metafile = true
 
 [[files]]
+file = "mods/more-critters.pw.toml"
+hash = "c7438722f667876006e3c73b042abf8befe19e12dc932f26372bf4a64c3443c7"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "679fa8f3b49b9ed3fbcb29d6ccdb99bce465faa01f9cec000464ac8d4fbe134f"
 metafile = true

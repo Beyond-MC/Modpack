@@ -2072,6 +2072,11 @@ hash = "ab8a8cc82a310000a19367f7331b1b6b2819d7c052ba168dc61ac6522fbf8ac1"
 metafile = true
 
 [[files]]
+file = "mods/endertanks.pw.toml"
+hash = "0a3fea794927375bfdd389b029bfa2b5dc80139753bf5a73383510659da9eef4"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "14ddf6bc740ded7825a455f90f0045ed3b4c2e65168565715daaff8532da5dbd"
 metafile = true

@@ -2607,11 +2607,6 @@ hash = "737f4acdf13d65c0e21665d411b8bdd027851b1877f2147397ca93ec03b5f401"
 metafile = true
 
 [[files]]
-file = "mods/sophisticated-storage.pw.toml"
-hash = "6ffc07fb0dd435c369eb08e040692443e0e8495a07dfd68cec5bc72398768420"
-metafile = true
-
-[[files]]
 file = "mods/spark.pw.toml"
 hash = "0be4976227df8e261fd362889bf8e85b93e224d1b1c3cd2a11b73a9de3b64083"
 metafile = true
@@ -2624,6 +2619,11 @@ metafile = true
 [[files]]
 file = "mods/starlight-forge.pw.toml"
 hash = "985d34e70842a5c8e0a8a4e35be894e5f5c6d0dcbe25f2a8f74a45616d32be33"
+metafile = true
+
+[[files]]
+file = "mods/storagedrawers.pw.toml"
+hash = "ff765c8249ef581bc6eef2ab9304f519aeec2552dc7a57760b7cd88eadd2685d"
 metafile = true
 
 [[files]]

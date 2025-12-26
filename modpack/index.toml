@@ -2722,11 +2722,6 @@ hash = "6cdd0327a10ccd5c02143d602da29d6c94313640d3bcc5f2946054bb8f1cf21b"
 metafile = true
 
 [[files]]
-file = "mods/wab.pw.toml"
-hash = "589e350709baf63e2f49cbdb8f739e3213250efbdc41c62c4ec1e821d40047d1"
-metafile = true
-
-[[files]]
 file = "mods/wall-jump-txf.pw.toml"
 hash = "085af60f2d1ca2e7e322da887da0ffb802c4ec634bb249e8dca854ee2176a9c7"
 metafile = true

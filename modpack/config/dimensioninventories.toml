@@ -1,0 +1,11 @@
+
+["Configs for Dimension Localized Inventories"]
+	#Dimensions excluded from the mod (Shares an inventory with the Overworld)
+	"Excluded Dimensions" = ["ad_astra:moon", "ad_astra:moon_orbit", "ad_astra:earth_orbit", "ae2:spatial_storage", "aquatica:eternal_deep", "beyondmod:emberis_orbit", "beyondmod:hivora_orbit", "beyondmod:nereid_orbit", "beyondmod:terminach_orbit", "beyondmod:week", "beyondmod:week_orbit", "compactmachines:compact_world", "cyberspace:cyberspace_dimension", "dimdoors:dungeon_pockets", "dimdoors:limbo", "dimdoors:personal_pockets", "dimdoors:public_pockets", "foolish:stellar_hollow", "minecraft:overworld", "minecraft:the_nether", "sgjourney:cavum_tenebrae"]
+	#Arrays of Dimensions that share an inventory
+	"Dimension Groups" = []
+	#Boolean value for whether a filter is put on what can go through portals
+	"Portal Toggle" = true
+	#Blacklist on which mobs are allowed through portals
+	"Mob Blacklist" = ["minecraft:donkey", "minecraft:mule", "minecraft:llama", "minecraft:item", "minecraft:chest_minecart"]
+

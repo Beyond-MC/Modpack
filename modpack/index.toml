@@ -2442,6 +2442,11 @@ hash = "7eb6d85c0116cb003c29bbfb62030d2eddfe3d219d5d8ab23a54a76ed9978595"
 metafile = true
 
 [[files]]
+file = "mods/omnitools.pw.toml"
+hash = "d26a1377c26474452f8e1cdb8460f0057f4dba4ae33baa564c42c2c8c5e1c655"
+metafile = true
+
+[[files]]
 file = "mods/orbital-railgun-reforged.pw.toml"
 hash = "3f80f8fc3479ab6b084d9abbe633947ea6229ce0ceca4bebdad2ef15a32fad1f"
 metafile = true

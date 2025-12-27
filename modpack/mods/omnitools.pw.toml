@@ -1,0 +1,13 @@
+name = "OmniTools"
+filename = "omnitools-1.2.0-fix.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/X6LCQe7U/versions/bOrz04p1/omnitools-1.2.0-fix.jar"
+hash-format = "sha512"
+hash = "cc4f206b3e93d2e70e8db9cfc3996ab88e67bf9cbbf449a6321a119c3930510cf347f46d83f3450329db4e3f449ff95cec73d9b70cb213b2235be61741373c85"
+
+[update]
+[update.modrinth]
+mod-id = "X6LCQe7U"
+version = "bOrz04p1"

@@ -9,5 +9,8 @@
   "planet.foolish.stellar_hollow": "Paul",
   "planet.aquatica.eternal_deep" : "Nereid",
   "planet.dimdoors.limbo": "Charybdis",
-  "planet.sgjourney.cavum_tenebrae" : "Terminarch"
+  "planet.sgjourney.cavum_tenebrae" : "Terminarch",
+  
+  "advancements.spunchbob_me_boy_i_ate_too_many_crabby_patties.descr": "Feed Crab girl a Krabby Patty and make her chubby.",
+  "item.mg_secrets_of_mermaids.crab_burger": "Krabby Patty"
 }

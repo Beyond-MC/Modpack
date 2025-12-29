@@ -1,0 +1,13 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": [
+    "aquatica:hadal_forest",
+    "aquatica:sea_pen_grove"
+  ],
+  "spawners": {
+    "type": "mg_secrets_of_mermaids:tropical_pygmy_mermaid",
+    "weight": 13,
+    "minCount": 1,
+    "maxCount": 3
+  }
+}

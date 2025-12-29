@@ -1,0 +1,14 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": [
+    "aquatica:abysmal_void",
+    "aquatica:abyssal_bonefields",
+    "aquatica:hydrothermal_valley"
+  ],
+  "spawners": {
+    "type": "mg_secrets_of_mermaids:common_abyssal_mermaid",
+    "weight": 10,
+    "minCount": 1,
+    "maxCount": 2
+  }
+}

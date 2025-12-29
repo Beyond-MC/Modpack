@@ -1,0 +1,14 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": [
+    "aquatica:islands",
+    "minecraft:beach",
+    ""
+],
+  "spawners": {
+    "type": "mg_secrets_of_mermaids:crab_girl",
+    "weight": 6,
+    "minCount": 1,
+    "maxCount": 2
+  }
+}

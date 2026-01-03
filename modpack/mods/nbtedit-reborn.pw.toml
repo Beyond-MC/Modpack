@@ -1,0 +1,13 @@
+name = "In-Game NBTEdit Reborn"
+filename = "nbtedit-forge-5.2.8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Vr2eDeCw/versions/tR4Z5Ijy/nbtedit-forge-5.2.8.jar"
+hash-format = "sha512"
+hash = "612282336d2997b3c5ab8b396db3bbb944ce979206aca72fb02daf040936b7b80845e25192505b7fbaa2e8b64f3b1c08a011544857756b68d4c08cc0f3658b91"
+
+[update]
+[update.modrinth]
+mod-id = "Vr2eDeCw"
+version = "tR4Z5Ijy"

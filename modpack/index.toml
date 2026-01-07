@@ -2197,6 +2197,11 @@ hash = "fa721b8fd8604fdc63cfc36f5863504cabbf86bc34b6cbaebfcb27a445dfa5e0"
 metafile = true
 
 [[files]]
+file = "mods/in-control.pw.toml"
+hash = "be6cb78947aecc992c077f4cf4e19fe6714d4c9b328a9ebe71c6d6887b4f98cf"
+metafile = true
+
+[[files]]
 file = "mods/infinity-golem-boss-fight-(beta).pw.toml"
 hash = "34d3a02881b982f067d24d5290cf276d43b4aab96d7bb3b057b12fac1dbafae7"
 metafile = true
@@ -2759,11 +2764,6 @@ metafile = true
 [[files]]
 file = "mods/worldeditcui-forge.pw.toml"
 hash = "02750acec3b73b203a2441f78ad4749650d4768ab2db9c4083a1c09ee421eb0f"
-metafile = true
-
-[[files]]
-file = "mods/you-shall-not-spawn.pw.toml"
-hash = "f041c9b6ed651b6d665a5ad0188c3d36fa2ce40b21c6527ddcabfd0df94cde40"
 metafile = true
 
 [[files]]

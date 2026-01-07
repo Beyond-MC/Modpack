@@ -1,0 +1,32 @@
+[
+  {
+    "mob": "bogos_binted:alien_rat_entity",
+    "when": "position",
+    "structure": [
+      "underground_village:underground_village",
+      "underground_village:underwater_village"
+    ],
+    "result": "default"
+  },
+  {
+    "mob": "bogos_binted:alien_rat_entity",
+    "when": "position",
+    "result": "deny"
+  },
+  {
+    "mob": [
+      "minecraft:zombie",
+      "minecraft:creeper",
+      "minecraft:skeleton",
+      "minecraft:zombie_villager",
+      "minecraft:spider",
+      "scguns:redcoat",
+      "minecraft:wolf",
+      "minecraft:slime"
+    ],
+    "when": "position",
+    "result": "deny"
+  }
+]
+
+  

@@ -26,6 +26,15 @@
     ],
     "when": "position",
     "result": "deny"
+  },
+  {
+    "hostile": true,
+    "maxcount": {
+      "amount": 30,
+      "hostile": true,
+      "perplayer": true
+    },
+    "result": "deny"
   }
 ]
 

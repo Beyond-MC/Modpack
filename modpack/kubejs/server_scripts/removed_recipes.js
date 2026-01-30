@@ -22,6 +22,10 @@ ServerEvents.recipes(event => {
     event.remove({ output: "mekanism:mekasuit_chestplate" });
     event.remove({ output: "mekanism:mekasuit_leggings" });
     event.remove({ output: "mekanism:mekasuit_boots" });
+    event.remove({ output: "mekanism:basic_universal_cable" });
+    event.remove({ output: "mekanism:advanced_universal_cable" });
+    event.remove({ output: "mekanism:elite_universal_cable" });
+    event.remove({ output: "mekanism:ultimate_universal_cable" });
 })
 
 //Swords
@@ -41,6 +45,12 @@ ServerEvents.recipes(event => {
     event.remove({ output: "sgjourney:naquadah_sword" });
 })
 
+//Cyberspace
+ServerEvents.recipes(event => {
+    event.remove({ output: "cyberspace:terminal" });
+})
+
+
 ///////// HIDING ITEMS FROM RECIPE VIEWERS //////////
 //Crc
 ServerEvents.tags(`item`, event => {
@@ -54,6 +64,11 @@ ServerEvents.tags(`item`, event => {
     event.add( `c:hidden_from_recipe_viewers`, "mekanism:mekasuit_leggings" );
     event.add( `c:hidden_from_recipe_viewers`, "mekanism:mekasuit_boots" );
     event.add( `c:hidden_from_recipe_viewers`, "mekanism:meka_tool" );
+    event.add( `c:hidden_from_recipe_viewers`, "mekanism:atomic_disassembler" );
+    event.add( `c:hidden_from_recipe_viewers`, "mekanism:basic_universal_cable" );
+    event.add( `c:hidden_from_recipe_viewers`, "mekanism:advanced_universal_cable" );
+    event.add( `c:hidden_from_recipe_viewers`, "mekanism:elite_universal_cable" );
+    event.add( `c:hidden_from_recipe_viewers`, "mekanism:ultimate_universal_cable" );
 })
 
 //Haven Animal Seeds
@@ -81,4 +96,9 @@ ServerEvents.tags(`item`, event => {
     event.add( `c:hidden_from_recipe_viewers`, "deeperdarker:resonarium_sword" );
     event.add( `c:hidden_from_recipe_viewers`, "deeperdarker:warden_sword" );
     event.add( `c:hidden_from_recipe_viewers`, "sgjourney:naquadah_sword" );
+})
+
+//Cyberspace
+ServerEvents.tags(`item`, event => {
+    event.add( `c:hidden_from_recipe_viewers`, "cyberspace:terminal" );
 })

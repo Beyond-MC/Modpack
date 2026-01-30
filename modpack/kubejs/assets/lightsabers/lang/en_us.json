@@ -1,0 +1,73 @@
+{
+  "itemGroup.lightsabers": "Lightsabers",
+  "creativetab.lightsabers_tab": "Dan's Lightsabers Mod",
+
+  "block.lightsabers.lightsabers_forge": "Lightsabers Forge",
+  "block.lightsabers.holocron_jedi": "Jedi Holocron",
+  "block.lightsabers.holocron_sith": "Sith Holocron",
+  "block.lightsabers.ore_crystal": "Kyber Crystal Ore",
+
+  "item.lightsabers.kyber_crystal": "Kyber Crystal",
+  "item.lightsabers.kyber_crystal_cracked": "Cracked Kyber Crystal",
+  "item.lightsabers.circuit": "Electronic Parts",
+  "item.lightsabers.circuit_netherite": "Beskar Electronic Parts",
+
+  "item.lightsabers.training_saber": "Training Saber",
+
+  "item.lightsabers.lightsaber_ahsoka": "Lightsaber",
+  "item.lightsabers.lightsaber_luke": "Lightsaber",
+  "item.lightsabers.lightsaber_obiwan": "Lightsaber",
+  "item.lightsabers.lightsaber_shoto": "Lightsaber",
+  "item.lightsabers.lightsaber_kylo": "Lightsaber",
+  "item.lightsabers.lightsaber_guard": "Lightsaber",
+  "item.lightsabers.lightsaber_maul": "Lightsaber",
+  "item.lightsabers.lightsaber_windu": "Lightsaber",
+  "item.lightsabers.lightsaber_ventress": "Lightsaber",
+  "item.lightsabers.lightsaber_anakin": "Lightsaber",
+  "item.lightsabers.lightsaber_vizsla": "Darksaber",
+
+  "gui.lightsabers.lsforge_craft_button": "Craft",
+  "gui.lightsabers.lsforge_u_button": "▲",
+  "gui.lightsabers.lsforge_d_button": "▼",
+  "gui.lightsabers.lsforge_craft_description": "Use electronic parts and kyber crystal to craft.",
+  "gui.lightsabers.lsforge_color_up_button": "Scroll up colors",
+  "gui.lightsabers.lsforge_color_down_button": "Scroll down colors",
+  "gui.lightsabers.lsforge_hilt_up_button": "Scroll up hilts",
+  "gui.lightsabers.lsforge_hilt_down_button": "Scroll down hilts",
+
+  "tooltip.lightsabers.kyber_crystal_block.tooltip": "§7Grows only in caves.",
+  "tooltip.lightsabers.kyber_crystal.tooltip": "§7A rare crystal that powers a lightsaber.",
+  "tooltip.lightsabers.kyber_crystal_cracked.tooltip": "§7Explode the crystal ore to get a cracked shard.",
+  "tooltip.lightsabers.information.tooltip": "§7Shift + RightClick to turn ON/OFF.",
+  "tooltip.lightsabers.holocron_jedi.tooltip": "§7Establishes a connection with the Force.",
+
+  "entity.minecraft.villager.lightsabers.jedi": "Jedi",
+
+  "effect.lightsabers.force_adept": "Force Adept",
+  "effect.lightsabers.force_adept_dark": "Force Adept",
+
+  "advancements.lightsabers.crystal.title": "New Era",
+  "advancements.lightsabers.crystal.description": "Run an extraterrestrial energy crystal through a charger to get a kyber crystal",
+
+  "advancements.lightsabers.crystal_cracked.title": "Unstable Сondition",
+  "advancements.lightsabers.crystal_cracked.description": "Break it with a pickaxe in a cutting board to get a cracked kyber crystal",
+
+  "advancements.lightsabers.lightsabers_forge.title": "Force Materializer",
+  "advancements.lightsabers.lightsabers_forge.description": "Create a Lightsaber Forge",
+
+  "advancements.lightsabers.title": "Feel the Force",
+  "advancements.lightsabers.description": "Craft your first Lightsaber",
+
+  "advancements.darksaber.title": "Mandalorian",
+  "advancements.darksaber.description": "Craft Vizsla's Darksaber",
+
+  "advancements.kill_hostle.title": "Path of Light",
+  "advancements.kill_hostle.description": "Pierce the hostile mob with the lightsaber",
+
+  "advancements.kill_peaseful.title": "Path of Darkness",
+  "advancements.kill_peaseful.description": "Pierce a peaceful mob with the lightsaber",
+
+  "advancements.lightsabers.jedi_enclave_banner": "§6Jedi Enclave",
+  "advancements.find_jedi_enclave.title": "Jedi Teaching",
+  "advancements.find_jedi_enclave.description": "Find the Jedi Enclave"
+}

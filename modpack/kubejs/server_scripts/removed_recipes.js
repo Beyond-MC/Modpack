@@ -87,6 +87,8 @@ ServerEvents.recipes(event => {
     });
     event.remove({ output: "cyberspace:terminal" });
     event.remove({ output: "crc:portal_opener" });
+    event.remove({ output: "orbital_railgun:orbital_railgun" });
+    event.remove({ output: /^dimdoors:item_ag_dim/ });
 })
 
 //////////////////////////////////////////////////////
@@ -96,6 +98,8 @@ ServerEvents.tags(`item`, event => {
     event.add( `c:hidden_from_recipe_viewers`, CONSTANTS );
     event.add( `c:hidden_from_recipe_viewers`, "crc:portal_opener" );
     event.add( `c:hidden_from_recipe_viewers`, "cyberspace:terminal" );
+    event.add( `c:hidden_from_recipe_viewers`, "orbital_railgun:orbital_railgun" );
+    event.add( `c:hidden_from_recipe_viewers`, /^dimdoors:item_ag_dim/ );
 })
 
 //////////////////////////////////////////////////////
@@ -104,4 +108,5 @@ ServerEvents.tags(`item`, event => {
 LootJS.modifiers((event) => {
     event.addLootTypeModifier(LootType.BLOCK).removeLoot(CONSTANTS);
     event.addLootTypeModifier(LootType.ENTITY).removeLoot('deeperdarker:heart_of_the_deep');
+    event.addLootTypeModifier(LootType.ENTITY).removeLoot(/^dimdoors:item_ag_dim/);
 })

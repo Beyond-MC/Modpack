@@ -65,12 +65,18 @@ var SWORDS = [
     "sgjourney:naquadah_sword"
 ];
 
+var CAGES = [
+    "animal_pen:animal_cage"
+];
+
 var CONSTANTS = [
     GUNS,
     MEKANISM,
     ANIMAL_SEEDS,
-    SWORDS
-]
+    SWORDS,
+    CAGES
+];
+
 
 ////////////////////////////////////
 //////  REMOVING  RECIPES  /////////

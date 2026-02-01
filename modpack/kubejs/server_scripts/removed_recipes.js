@@ -33,10 +33,6 @@ var MEKANISM = [
     "mekanism:mekasuit_boots",
     "mekanism:meka_tool",
     "mekanism:atomic_disassembler",
-    "mekanism:basic_universal_cable",
-    "mekanism:advanced_universal_cable",
-    "mekanism:elite_universal_cable",
-    "mekanism:ultimate_universal_cable",
     "mekanism:digital_miner"
 ];
 

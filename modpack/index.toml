@@ -2002,11 +2002,6 @@ hash = "e9dfcaebe165cb93ba4774f5c17bae14b5b82878593199539326f92519f59d5e"
 metafile = true
 
 [[files]]
-file = "mods/dimension-localized-inventories.pw.toml"
-hash = "fef7856fd60c1343557a30b038620e6509a0644d51b0064a6ef685767d2bdf9c"
-metafile = true
-
-[[files]]
 file = "mods/dimensionaldoors.pw.toml"
 hash = "b336a8ec620a9d52041e63b61c17e5857e8d6cb46cdbf4989066dec38ead21d3"
 metafile = true
@@ -2204,11 +2199,6 @@ metafile = true
 [[files]]
 file = "mods/immersive-melodies.pw.toml"
 hash = "fa721b8fd8604fdc63cfc36f5863504cabbf86bc34b6cbaebfcb27a445dfa5e0"
-metafile = true
-
-[[files]]
-file = "mods/in-control.pw.toml"
-hash = "66e31f260f763f9643e4efd3af083fb2b9810c49cbc221cec82caf82ec19222a"
 metafile = true
 
 [[files]]
@@ -2492,6 +2482,11 @@ hash = "4ab869d8784f4ac318b5c92fa3d9e65f997352b8b57f34b409ca6f171637f0fe"
 metafile = true
 
 [[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "4dd7038889da90e145f9d074bec64a61aaae12dc57c875aa7ad99b8b2e07979b"
+metafile = true
+
+[[files]]
 file = "mods/quark.pw.toml"
 hash = "8df897c0f7831e919aa528c3c1e5239f39439c123d99761230ab2357132bad98"
 metafile = true
@@ -2612,13 +2607,13 @@ hash = "50d0cb105f5db0a982d9c00f5ea6aee826866576b796526686ab0877c912e968"
 metafile = true
 
 [[files]]
-file = "mods/starlight-forge.pw.toml"
-hash = "985d34e70842a5c8e0a8a4e35be894e5f5c6d0dcbe25f2a8f74a45616d32be33"
+file = "mods/storagedrawers.pw.toml"
+hash = "ff765c8249ef581bc6eef2ab9304f519aeec2552dc7a57760b7cd88eadd2685d"
 metafile = true
 
 [[files]]
-file = "mods/storagedrawers.pw.toml"
-hash = "ff765c8249ef581bc6eef2ab9304f519aeec2552dc7a57760b7cd88eadd2685d"
+file = "mods/stylish-effects.pw.toml"
+hash = "d81aae3d0916b3d60201f43b2eab687600991c36fa6959b61442bf378419ade0"
 metafile = true
 
 [[files]]

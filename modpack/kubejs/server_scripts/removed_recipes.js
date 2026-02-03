@@ -23,7 +23,7 @@ var GUNS = [
     "scguns:nervepinch",
     "scguns:astella",
     "scguns:big_bore",
-    "scguns:ultra_knight_hawk" 
+    "scguns:ultra_knight_hawk"
 ];
 
 var MEKANISM = [
@@ -65,6 +65,14 @@ var CAGES = [
     "animal_pen:animal_cage"
 ];
 
+var WIRES = [
+  "create_new_age:copper_wire",
+  "create_new_age:overcharged_iron_wire",
+  "create_new_age:overcharged_golden_wire",
+  "create_new_age:overcharged_diamond_wire",
+  "create_new_age:electrical_connector"
+]
+
 var MISC = [
   "alexscaves:dreadbow",
   "cyberspace:terminal",
@@ -75,12 +83,21 @@ var MISC = [
   /dimdoors:item_ag_dim_.*/
 ]
 
+var ARMOR = [
+  "minecraft:netherite_helmet",
+  "minecraft:netherite_chestplate",
+  "minecraft:netherite_leggings",
+  "minecraft:netherite_boots"
+]
+
 var CONSTANTS = [
     GUNS,
     MEKANISM,
     ANIMAL_SEEDS,
     SWORDS,
     CAGES,
+    WIRES,
+    ARMOR,
     MISC
 ];
 

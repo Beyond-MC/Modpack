@@ -83,13 +83,6 @@ var MISC = [
   /dimdoors:item_ag_dim_.*/
 ]
 
-var ARMOR = [
-  "minecraft:netherite_helmet",
-  "minecraft:netherite_chestplate",
-  "minecraft:netherite_leggings",
-  "minecraft:netherite_boots"
-]
-
 var CONSTANTS = [
     GUNS,
     MEKANISM,

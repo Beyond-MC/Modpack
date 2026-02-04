@@ -80,7 +80,8 @@ var MISC = [
   "orbital_railgun:orbital_railgun",
   "deeperdarker:heart_of_the_deep",
   "alexscaves:tremorzilla_egg",
-  /dimdoors:item_ag_dim_.*/
+  /dimdoors:item_ag_dim_.*/,
+  /scannable:.*/
 ]
 
 var CONSTANTS = [
@@ -90,7 +91,6 @@ var CONSTANTS = [
     SWORDS,
     CAGES,
     WIRES,
-    ARMOR,
     MISC
 ];
 

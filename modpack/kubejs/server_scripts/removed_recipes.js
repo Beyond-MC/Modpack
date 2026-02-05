@@ -33,7 +33,8 @@ var MEKANISM = [
     "mekanism:mekasuit_boots",
     "mekanism:meka_tool",
     "mekanism:atomic_disassembler",
-    "mekanism:digital_miner"
+    "mekanism:digital_miner",
+    "mekanism:cardboard_box"
 ];
 
 var ANIMAL_SEEDS = [

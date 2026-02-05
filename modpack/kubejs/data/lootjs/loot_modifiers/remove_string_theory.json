@@ -1,0 +1,5 @@
+{
+  "type": "lootjs:remove_enchantment",
+  "enchantment": "dimdoors:string_theory",
+  "conditions": []
+}

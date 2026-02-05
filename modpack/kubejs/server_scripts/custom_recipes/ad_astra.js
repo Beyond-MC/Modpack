@@ -1,4 +1,5 @@
 ServerEvents.recipes(event => {
+  //Ostrum Ingot
         event.custom({
             "type": "create:mixing",
             "heatRequirement": "heated",
@@ -12,11 +13,16 @@ ServerEvents.recipes(event => {
             ],
             "results": [
               {
+                "count": 2,
                 "item": "ad_astra:ostrum_ingot"
               }
             ]
           })
+        event.remove({ type: 'minecraft:smelting', output: 'ad_astra:ostrum_ingot' })
+        event.remove({ type: 'minecraft:blasting', output: 'ad_astra:ostrum_ingot' })
+  
 
+  //Royal jelly Bottle
         event.custom({
             "type": "create:mixing",
             "heatRequirement": "heated",

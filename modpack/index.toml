@@ -1702,16 +1702,6 @@ hash = "5f164d20e5ac83617e8836d16bc0a9e468fd01a18f8d8e12ac4bff4b92d5ceea"
 metafile = true
 
 [[files]]
-file = "mods/accessories-cc-layer.pw.toml"
-hash = "2e31627453295ef5d88ada8a3d294cd04eec3ef61dfd9f8abeee8d837f4b9dc5"
-metafile = true
-
-[[files]]
-file = "mods/accessories.pw.toml"
-hash = "a29cc0d032b62f5cd6be50f9536554fdfd8ddb2f2256764c00910939b3476680"
-metafile = true
-
-[[files]]
 file = "mods/achievements-optimizer.pw.toml"
 hash = "3ca7d9d3e8a27d354ece2adc3bbaf41f7c22f9b3e3b85175ff996e1f58f095fb"
 metafile = true
@@ -1809,6 +1799,11 @@ metafile = true
 [[files]]
 file = "mods/bl4cks-sit.pw.toml"
 hash = "a45bbe1f9c5947251c59bb51adfb7493e4023d5728dab1e6b8f116fdf8bf896f"
+metafile = true
+
+[[files]]
+file = "mods/bookshelf-lib.pw.toml"
+hash = "02062a6b61e230e7debaf1c03d5e1e7203e427588fceb9f3d6ef8cad8062397e"
 metafile = true
 
 [[files]]
@@ -1972,6 +1967,11 @@ hash = "9582c04926dd9cea7f68f6f1b4e068bd2ec3f6fcb2734497d885364c6b74b1e1"
 metafile = true
 
 [[files]]
+file = "mods/curios.pw.toml"
+hash = "9eefd607e0d54ec444e798ccdeede1a09a3939440bd1e11c11b84c07a5134be2"
+metafile = true
+
+[[files]]
 file = "mods/custom-player-models.pw.toml"
 hash = "1d2a18adcc9626a77b7b66f9960a41cad9a6afda56d43ee8e9ecc30eb5f2204c"
 metafile = true
@@ -2069,6 +2069,11 @@ metafile = true
 [[files]]
 file = "mods/emotecraft.pw.toml"
 hash = "84e6ec23b1d9e88d4e1147d3d3c7c50b387f4b7ce06c52d3d8b6ceb6412907ee"
+metafile = true
+
+[[files]]
+file = "mods/enchantment-descriptions.pw.toml"
+hash = "78370ae52e87fdd72c5a988bed40674d1a7a9bc8a7d69e899f6a4fa91901925d"
 metafile = true
 
 [[files]]
@@ -2739,11 +2744,6 @@ metafile = true
 [[files]]
 file = "mods/worldeditcui-forge.pw.toml"
 hash = "02750acec3b73b203a2441f78ad4749650d4768ab2db9c4083a1c09ee421eb0f"
-metafile = true
-
-[[files]]
-file = "mods/yukamis-sophisticated-backpack-tab.pw.toml"
-hash = "15afc2d4d8f2f87c91845aa723d3664af61f294c6de1a42baf8f2c6ce7f87cbb"
 metafile = true
 
 [[files]]

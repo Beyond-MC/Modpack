@@ -1,19 +1,19 @@
 LootJS.modifiers(event => {
 
   event
-    .addLootTableModifier(/^(the_bumblezone|thebumblezone):.*/)
-    .randomChance(0.35) // 35% of chests attempt to add loot
+    .addLootTableModifier(/^(the_bumblezone|thebumblezone):chests\/.*/)
+    .randomChance(0.35)
     .addLoot("minecraft:netherite_upgrade_smithing_template")
     .apply((ctx) => {
-      // 25% chance to add a second one
+
+      // 25% chance for a second template
       if (Math.random() < 0.25) {
         ctx.addLoot("minecraft:netherite_upgrade_smithing_template")
       }
 
-      // 10% chance to add a third
+      // 10% chance for a third template
       if (Math.random() < 0.10) {
         ctx.addLoot("minecraft:netherite_upgrade_smithing_template")
       }
     })
-
 })

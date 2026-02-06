@@ -82,7 +82,8 @@ var MISC = [
   "deeperdarker:heart_of_the_deep",
   "alexscaves:tremorzilla_egg",
   /dimdoors:item_ag_dim_.*/,
-  /scannable:.*/
+  /scannable:.*/,
+  /transmog:.*/
 ]
 
 var CONSTANTS = [

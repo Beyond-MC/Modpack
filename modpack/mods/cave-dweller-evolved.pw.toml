@@ -1,0 +1,13 @@
+name = "Cave Dweller Evolved"
+filename = "cave_dweller-1.20.1-1.7.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/70pj2OCh/versions/wt6Qw64V/cave_dweller-1.20.1-1.7.0.jar"
+hash-format = "sha512"
+hash = "78e98458d7c0c85ee696faa2934689916d1712094151e4b37e2c05e98eaaf413aac05316bf060373462d84965264c35b5abaf9a2fb9370705e4912ea17063d30"
+
+[update]
+[update.modrinth]
+mod-id = "70pj2OCh"
+version = "wt6Qw64V"

@@ -1,0 +1,13 @@
+name = "The Frog Dweller"
+filename = "frog_dweller-1.1.1-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pxJjpWgW/versions/yLNHBOwx/frog_dweller-1.1.1-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "45d94aa20331a2ad56fbc71fb2d48d9a12cf12bce28e85fe3174a4fff2f83b2391647b9dea41f2a1407182c332093d4a4137a79312a4e6c4aec4bcecc6649bef"
+
+[update]
+[update.modrinth]
+mod-id = "pxJjpWgW"
+version = "yLNHBOwx"

@@ -63,4 +63,23 @@ ItemEvents.tooltip(event => {
     Text.gold("[  You are in an alien planet ]"),
     Text.gold("[  (But they were abducted) ]")
   ])
+
+  event.add('supplementaries:cage', [
+    Text.gold("[  Cows do not spawn here!!  ]"),
+    Text.gold("[  You are in an alien planet ]"),
+    Text.gold("[  (But they were abducted) ]")
+  ])
+
+  event.add('supplementaries:jar', [
+    Text.gold("[  Can't be used to capture animals!  ]"),
+    Text.gold("[  Try a capture trap instead ]")
+  ])
+
+  event.add(/animal_pen:animal_pen.*/, [
+    Text.gold("[  Input animal from a creature chip!  ]")
+  ])
+
+  event.add("animal_pen:aquarium_block", [
+    Text.gold("[  Input animal from a water chip!  ]")
+  ])
 })

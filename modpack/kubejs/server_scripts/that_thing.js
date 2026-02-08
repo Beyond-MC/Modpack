@@ -4,7 +4,7 @@ EntityEvents.death(event => {
   if (entity.level.isClientSide()) return
 
   // 1 in 10 chance
-  if (Math.floor(Math.random() * 10) !== 0) return
+  if (Math.floor(Math.random() * 5) !== 0) return
 
   const x = Math.floor(entity.x)
   const y = Math.floor(entity.y)

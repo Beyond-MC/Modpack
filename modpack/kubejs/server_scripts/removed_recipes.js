@@ -63,7 +63,8 @@ var SWORDS = [
 ];
 
 var CAGES = [
-    "animal_pen:animal_cage"
+    "animal_pen:animal_cage",
+    "animal_pen:water_animal_container"
 ];
 
 var WIRES = [
@@ -72,6 +73,18 @@ var WIRES = [
   "create_new_age:overcharged_golden_wire",
   "create_new_age:overcharged_diamond_wire",
   "create_new_age:electrical_connector"
+]
+
+var KEEPER = [
+    "neonsentrykeeper:capture_system_changer",
+    "neonsentrykeeper:keeper_spawn_egg",
+    "neonsentrykeeper:sentry_spawner",
+    "neonsentrykeeper:kee_pad",
+    "neonsentrykeeper:plasma_cell",
+    "neonsentrykeeper:capture_creature_chip_charged",
+    "neonsentrykeeper:capture_monster_chip_charged",
+    "neonsentrykeeper:capture_water_chip_charged",
+    "neonsentrykeeper:capture_global_chip_charged"
 ]
 
 var MISC = [
@@ -83,7 +96,8 @@ var MISC = [
   "alexscaves:tremorzilla_egg",
   /dimdoors:item_ag_dim_.*/,
   /scannable:.*/,
-  /transmog:.*/
+  /transmog:.*/,
+  /frog_dweller:.*/
 ]
 
 var CONSTANTS = [
@@ -93,6 +107,7 @@ var CONSTANTS = [
     SWORDS,
     CAGES,
     WIRES,
+    KEEPER,
     MISC
 ];
 

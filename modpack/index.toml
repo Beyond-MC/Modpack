@@ -2132,11 +2132,6 @@ hash = "2f23491c650ffa8f2758ea80e98da56e9a6791551fa5dc9eb995434a55f58785"
 metafile = true
 
 [[files]]
-file = "mods/fastboot.pw.toml"
-hash = "d4b18897dbe6c897b49afd13ccd6402c6a8aeb4935e94e98414d594a4f67791f"
-metafile = true
-
-[[files]]
 file = "mods/faunify.pw.toml"
 hash = "053e83265aa37803cc79ea08843645d8d3a77c6b5ef2afff95c3a3e81aeaaad3"
 metafile = true

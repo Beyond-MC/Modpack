@@ -11,7 +11,7 @@ StartupEvents.registry('item', e => {
 
   e.create('carrot_sword', 'sword')
     .tier('iron')
-    .displaynName('Carrot sword')
+    .displayName('Carrot sword')
 
   e.create('golden_carrot_sword', 'sword')
     .tier('netherite')

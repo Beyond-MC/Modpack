@@ -11,11 +11,11 @@ StartupEvents.registry('item', e => {
 
   e.create('carrot_sword', 'sword')
     .tier('iron')
-    .displayname('Carrot sword')
+    .displaynName('Carrot sword')
 
   e.create('golden_carrot_sword', 'sword')
     .tier('netherite')
-    .displayname(Text.gold("Paypay's Sword"))
+    .displayName(Text.gold("Paypay's Sword"))
     .tooltip(Text.gold("⚠ Helian Leader Paypay's Sword Replica"))
     .tooltip(Text.gold("Helian archives classify this as a replica of a legendary warrior's blade."))
     .attackDamageBaseline(999)

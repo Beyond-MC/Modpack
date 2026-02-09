@@ -88,5 +88,8 @@
   ],
   "frog_dweller:frogdweller": [
     "natural"
+  ],
+  "minecraft:squid": [
+    "natural"
   ]
 }

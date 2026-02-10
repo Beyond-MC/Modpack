@@ -21,7 +21,7 @@
     "canUseRiftSignatureInPrivatePockets": true
   },
   "world": {
-    "clusterGenChance": 20000.0,
+    "clusterGenChance": 0.0,
     "clusterDimBlacklist": [],
     "gatewayDimBlacklist": []
   },

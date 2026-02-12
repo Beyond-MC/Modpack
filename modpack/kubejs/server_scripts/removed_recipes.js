@@ -100,10 +100,6 @@ var MISC = [
   /frog_dweller:.*/
 ]
 
-var TEMPAD = [
-    "tempad:he_who_remains_tempad"
-]
-
 var CONSTANTS = [
     GUNS,
     MEKANISM,
@@ -112,7 +108,6 @@ var CONSTANTS = [
     CAGES,
     WIRES,
     KEEPER,
-    TEMPAD,
     MISC
 ];
 

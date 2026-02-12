@@ -100,6 +100,10 @@ var MISC = [
   /frog_dweller:.*/
 ]
 
+var TEMPAD = [
+    "tempad:he_who_remains_tempad"
+]
+
 var CONSTANTS = [
     GUNS,
     MEKANISM,
@@ -108,10 +112,9 @@ var CONSTANTS = [
     CAGES,
     WIRES,
     KEEPER,
+    TEMPAD,
     MISC
 ];
-
-
 
 ////////////////////////////////////
 //////  REMOVING  RECIPES  /////////
@@ -128,6 +131,7 @@ ServerEvents.recipes(event => {
 ServerEvents.tags(`item`, event => {
     event.add( `c:hidden_from_recipe_viewers`, CONSTANTS );
     event.add( `c:hidden_from_recipe_viewers`, /ae2:facade/ )
+    event.add( `c:hidden_from_recipe_viewers`, "beyondmod:ghost_tempad" )
 })
 
 //////////////////////////////////////////////////////

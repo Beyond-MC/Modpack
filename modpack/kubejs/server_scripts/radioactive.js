@@ -11,7 +11,11 @@ ServerEvents.tick(event => {
       "alexscaves:hazmat_mask",
       "alexscaves:hazmat_chestplate",
       "alexscaves:hazmat_leggings",
-      "alexscaves:hazmat_boots"
+      "alexscaves:hazmat_boots",
+      "ad_astra:jet_suit_helmet",
+      "ad_astra:jet_suit",
+      "ad_astra:jet_suit_pants",
+      "ad_astra:jet_suit_boots"
     ];
 
     // =================

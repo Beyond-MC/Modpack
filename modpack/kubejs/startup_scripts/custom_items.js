@@ -20,6 +20,9 @@ StartupEvents.registry('item', e => {
     .tooltip(Text.gold("Helian archives classify this as a replica of a legendary warrior's blade."))
     .attackDamageBaseline(999)
     .maxDamage(-1)
+
+  e.create('calorite_upgrade_smithing_template')
+    .displayName('Calorite Upgrade Smithing Template')
 })
 
 ItemEvents.modification(event => {

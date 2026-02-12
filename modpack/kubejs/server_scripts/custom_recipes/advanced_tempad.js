@@ -15,6 +15,22 @@ ServerEvents.recipes(event => {
             }
         })
 
+    event.custom({
+            "type": "minecraft:smithing_transform",
+            "addition": {
+                "item": "ad_astra:calorite_ingot"
+            },
+            "base": {
+                "item": "tempad:tempad"
+            },
+            "result": {
+                "item": "beyondmod:ghost_tempad"
+            },
+            "template": {
+                "item": "kubejs:calorite_upgrade_smithing_template"
+            }
+        })
+
     event.shaped('kubejs:calorite_upgrade_smithing_template', [
             'AAA',
             'ABA',

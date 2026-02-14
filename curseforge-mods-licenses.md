@@ -14,3 +14,4 @@
 - [Neon Sentry Keeper](https://www.curseforge.com/minecraft/mc-mods/neon-sentry-keeper) -> [Custom License](https://www.curseforge.com/minecraft/mc-mods/neon-sentry-keeper#license)
 - [Aquatica](https://www.curseforge.com/minecraft/mc-mods/aquaticamod) -> https://imgur.com/a/09sFxZl
 - [IDog](https://www.curseforge.com/minecraft/mc-mods/idog) -> [MIT LICENSE](https://www.curseforge.com/minecraft/mc-mods/idog#license)
+- [Tanuki Decor](https://www.curseforge.com/minecraft/mc-mods/tanukidecor/files/5139065) -> [GNU](https://www.curseforge.com/minecraft/mc-mods/tanukidecor/files/5139065#license)

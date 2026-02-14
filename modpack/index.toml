@@ -2652,6 +2652,11 @@ hash = "d8a0355cf4da9ce96dadbec3fa67a0ffa81132c72c3184f03b6bd30cb2669e08"
 metafile = true
 
 [[files]]
+file = "mods/tanukidecor.pw.toml"
+hash = "39696f16a951a19b8c8418353b4d598a9f684d6e0bf53dec2ce2bbd8979b378f"
+metafile = true
+
+[[files]]
 file = "mods/tempad.pw.toml"
 hash = "0ebc212bb83219ecd2b24d3943ab84a905c5f0963b04755fcf816d3b7744dc6b"
 metafile = true

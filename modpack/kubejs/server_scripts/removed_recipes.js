@@ -87,6 +87,18 @@ var KEEPER = [
     "neonsentrykeeper:capture_global_chip_charged"
 ]
 
+var LIGHTSABERS = [
+    "lightsabers:lightsaber_vizsla",
+    "lightsabers:circuit_netherite"
+]
+
+var SHIELDS = [
+    "minecraft:shield",
+    "species:ricoshield",
+    "the_bumblezone:honey_crystal_shield",
+    "alexscaves:resistor_shield",
+]
+
 var MISC = [
   "alexscaves:dreadbow",
   "cyberspace:terminal",
@@ -108,6 +120,8 @@ var CONSTANTS = [
     CAGES,
     WIRES,
     KEEPER,
+    LIGHTSABERS,
+    SHIELDS,
     MISC
 ];
 
@@ -130,7 +144,7 @@ ServerEvents.tags(`item`, event => {
 })
 
 //////////////////////////////////////////////////////
-/////////   REMOVING ITEMS FROM LOOTTABLES  //////////
+/////////   REMOVING ITEMS FR LOOTTABLES  //////////
 //////////////////////////////////////////////////////
 LootJS.modifiers((event) => {
     event.addLootTypeModifier(LootType.BLOCK).removeLoot(CONSTANTS);

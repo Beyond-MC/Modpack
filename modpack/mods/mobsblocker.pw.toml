@@ -1,0 +1,13 @@
+name = "Mobs Blocker"
+filename = "mobs_blocker-1.2.0-forge-1.20.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/W0JWCVNo/versions/Af1MgWby/mobs_blocker-1.2.0-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "347a8dfa9e5e3b6b1c56109d755d6271aedcf5801e1814e6b5b2bae3bf0f8eecbf56e73116ef50552fd3a149e4588e16e0468958b8907abfc9d9a58f4e5f96a8"
+
+[update]
+[update.modrinth]
+mod-id = "W0JWCVNo"
+version = "Af1MgWby"

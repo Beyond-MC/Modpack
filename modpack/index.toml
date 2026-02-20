@@ -2382,6 +2382,11 @@ hash = "ade41e4315735aa9116a0222b332e03d3f8df6eea301764d40d0bdc40f5e8689"
 metafile = true
 
 [[files]]
+file = "mods/mobsblocker.pw.toml"
+hash = "662f910ca8645898bb740d80776b1fb320b73f13272b024fa6df2bdb057c7848"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "dc906a68268eaba1a7690ddda6931e752b72aba629eec3407f252ecee76b70ea"
 metafile = true

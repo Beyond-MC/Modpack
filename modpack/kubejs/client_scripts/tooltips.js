@@ -2,20 +2,23 @@ ItemEvents.tooltip(event => {
   event.add('tempad:tempad', [
     Text.darkPurple('[ Helian Transit & Comms Device ]'),
     Text.darkPurple('Experimental Helian Technology!!!'),
-    Text.darkPurple('Used for spatial links creation and communication.'),
+    Text.darkPurple('Used for Einstein-Rosen Bridges creation'),
+    Text.darkPurple('and communication.'),
     Text.gold('PLANETARY RANGE ONLY')
   ])
 
   event.add('tempad:he_who_remains_tempad', [
     Text.darkPurple('[ Helian Transit & Comms Device ]'),
     Text.darkPurple('Enhanced Helian Technology'),
-    Text.darkPurple('Used for spatial links creation and communication.')
+    Text.darkPurple('Used for Einstein-Rosen Bridges creation'),
+    Text.darkPurple('and communication.'),
   ])
 
   event.add('beyondmod:ghost_tempad', [
     Text.darkPurple('[ Helian Transit & Comms Device ]'),
     Text.darkPurple('Enhanced Helian Technology'),
-    Text.darkPurple('Used for spatial links creation and communication.')
+    Text.darkPurple('Used for Einstein-Rosen Bridges creation'),
+    Text.darkPurple('and communication.')
   ])
 
   event.add('minecraft:netherite_upgrade_smithing_template', [

@@ -1,6 +1,6 @@
 {
   "gui.tempad.new_location": "[+] New Location",
-  "gui.tempad.timedoor": "Spatial Link",
+  "gui.tempad.timedoor": "Einstein-Rosen Bridge",
   "item.tempad.tempad": "§6H.O.P.P.E.R.",
   "item.tempad.he_who_remains_tempad": "§6Different H.O.P.P.E.R.",
   "gui.tempad.dimension": "Planet: %s",
@@ -8,7 +8,8 @@
   "advancements.tempad.tempad": "For All Time. Always.",
   "advancements.tempad.tempad.description": "Obtain an H.O.P.P.E.R.",
   "advancements.tempad.he_who_remains.description": "Obtain 'He Who Remains' H.O.P.P.E.R.",
-  "subtitles.tempad.entity.timedoor.open": "Spatial Link opens",
+  "subtitles.tempad.entity.timedoor.open": "Einstein-Rosen Bridge opens",
+
   "dimension.minecraft.overworld": "Ikos",
   "dimension.minecraft.the_nether": "Emberis",
   "dimension.deeperdarker.otherside": "Morvane",
@@ -18,10 +19,12 @@
   "dimension.sgjourney.cavum_tenebrae": "Terminach",
   "dimension.dimdoors.limbo": "Charybdis",
 
+  "entity.tempad.timedoor": "Einstein-Rosen Bridge",
+
   "category.tempad.keybinds": "H.O.P.P.E.R.",
   "key.tempad.shortcut": "Open H.O.P.P.E.R. screen",
 
 
   "gui.tempad.teleport": "Hop",
-  "gui.tempad.teleport_disabled": "You may not hop to this location"
+  "gui.tempad.teleport_disabled": "You may not hop to this location!"
 }

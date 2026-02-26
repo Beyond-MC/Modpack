@@ -1,5 +1,5 @@
 {
-  "solid_color": "fff8ad",
+  "solid_color": "#ffffff",
   "display": {
     "scale": "0",
     "pos_x": "0",
@@ -15,10 +15,10 @@
     "base_degrees_z": "-90"
   },
   "properties": {
-    "alpha": "((1 - #dayLight) * #(1 - rainAlpha))"
+    "alpha": "1"
   },
   "populate": {
-    "count": 100,
+    "count": 400,
     "rotation": {
       "min_degrees_x": 0,
       "max_degrees_x": 360,

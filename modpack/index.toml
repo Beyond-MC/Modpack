@@ -2377,6 +2377,11 @@ hash = "ade41e4315735aa9116a0222b332e03d3f8df6eea301764d40d0bdc40f5e8689"
 metafile = true
 
 [[files]]
+file = "mods/minecraft-cursor.pw.toml"
+hash = "c534e11b09f293b8968ddec3b935f3b5ac4c31821801d32ed2ce94d47bece6a7"
+metafile = true
+
+[[files]]
 file = "mods/mobsblocker.pw.toml"
 hash = "662f910ca8645898bb740d80776b1fb320b73f13272b024fa6df2bdb057c7848"
 metafile = true

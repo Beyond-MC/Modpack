@@ -2167,11 +2167,6 @@ hash = "376f8a190f00bd120193d7a665ebe1b03dfe329cc395f7d944f7216c1182c84d"
 metafile = true
 
 [[files]]
-file = "mods/frog-dweller.pw.toml"
-hash = "7a7f45025376d0a06dbe1ac63fd4c6bbaabf09a868a9ad58f01855b2ee7361fe"
-metafile = true
-
-[[files]]
 file = "mods/fusion-connected-textures.pw.toml"
 hash = "9c94815c028b18cd04c63b604209be515d209dff8f4bc9960867da0b13a0dfe8"
 metafile = true

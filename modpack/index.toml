@@ -2784,6 +2784,11 @@ file = "resourcepacks/Quark Programmer Art.zip"
 hash = "41cb720cf256a12ea247b2f38068b363aa5b1675470c4b5aa66850701a78bc4d"
 
 [[files]]
+file = "resourcepacks/alternate-cavedweller.pw.toml"
+hash = "e4c3f5bb064b45820bba01c3e2e9fd56220188100f65cfba328673b7a2fc9a66"
+metafile = true
+
+[[files]]
 file = "resourcepacks/computercraft-greentech.pw.toml"
 hash = "d80e09a30e567ae691c78d04d6536c5db501703e2802c4f8dce98fe80aa786a4"
 metafile = true

@@ -1,0 +1,13 @@
+name = "Alternate Cave Dweller"
+filename = "§9Alternate-Cavedweller.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/H3e3HAxd/versions/FPoeMghA/%C2%A79Alternate-Cavedweller.zip"
+hash-format = "sha512"
+hash = "e7508d087ef8b850f22cb6ee8401b48ad8f809d121e1969fe0e8e34c4c1d815446341dfa812bc82094e2ceedbb51b63494a614d9712119e5b7d997e13bb9299f"
+
+[update]
+[update.modrinth]
+mod-id = "H3e3HAxd"
+version = "FPoeMghA"

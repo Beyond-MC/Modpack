@@ -1,0 +1,13 @@
+name = "Minescript"
+filename = "minescript-forge-1.20.1-4.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/KcpXWngB/versions/PWcYk7rH/minescript-forge-1.20.1-4.0.jar"
+hash-format = "sha512"
+hash = "8e09a777db7ca5c4e3512422ed5f85a67b7e8a8be08a6097cbeb3abfeab9706fb0ed577db1577909e9d69075d2f8d3ad2a7cd88ff2bc34c6c5a59531b0b8fbb6"
+
+[update]
+[update.modrinth]
+mod-id = "KcpXWngB"
+version = "PWcYk7rH"

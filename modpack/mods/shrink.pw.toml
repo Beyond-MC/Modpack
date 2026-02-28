@@ -1,0 +1,13 @@
+name = "Shrink"
+filename = "Shrink-1.20.1-1.4.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jzaTHh0C/versions/7VrIjpOO/Shrink-1.20.1-1.4.5.jar"
+hash-format = "sha512"
+hash = "51d61d7b0c77a615352e28a0bcfddbeffc212d88cee16b728530f572e01850904803005564539f185553530a5aa4fdd98d354f1427818d84ac1688a043983880"
+
+[update]
+[update.modrinth]
+mod-id = "jzaTHh0C"
+version = "7VrIjpOO"

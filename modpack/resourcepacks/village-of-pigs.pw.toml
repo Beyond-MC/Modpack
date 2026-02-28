@@ -1,0 +1,13 @@
+name = "Village of Pigs"
+filename = "Village of Pigs [1.20.x].zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/QI44upex/versions/4XaXFxbh/Village%20of%20Pigs%20%5B1.20.x%5D.zip"
+hash-format = "sha512"
+hash = "d5153a6f51d33f8aef3bade05127425719b9d93f972b2e9f7079e4702a23acb617c5c859d82626113572e0983f076434fc019e41a7ce10779e0ae0de923a8a97"
+
+[update]
+[update.modrinth]
+mod-id = "QI44upex"
+version = "4XaXFxbh"

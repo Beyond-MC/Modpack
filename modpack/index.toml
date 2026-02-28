@@ -2784,6 +2784,16 @@ file = "resourcepacks/Quark Programmer Art.zip"
 hash = "41cb720cf256a12ea247b2f38068b363aa5b1675470c4b5aa66850701a78bc4d"
 
 [[files]]
+file = "resourcepacks/computercraft-greentech.pw.toml"
+hash = "d80e09a30e567ae691c78d04d6536c5db501703e2802c4f8dce98fe80aa786a4"
+metafile = true
+
+[[files]]
 file = "resourcepacks/month-n-week-moons.pw.toml"
 hash = "3eba28c225d309e580591e1ff0d874f8539d0082f29bceba414acadd5d6f5dec"
+metafile = true
+
+[[files]]
+file = "resourcepacks/village-of-pigs.pw.toml"
+hash = "e7b0907abcca84d905983606570eeb1187cc6120ec3a0e35661a09a9793410bc"
 metafile = true

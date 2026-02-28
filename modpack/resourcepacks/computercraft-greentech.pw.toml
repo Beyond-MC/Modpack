@@ -1,0 +1,13 @@
+name = "Computercraft Greentech"
+filename = "CC Greentech v1.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/3lx16XQT/versions/Iobrd5Kt/CC%20Greentech%20v1.1.zip"
+hash-format = "sha512"
+hash = "d7d698b2a20f44bb1feb82ed547989e9fb5049c76210b493d16743ad9a23e7b84ec45d4821727f62f0a59a4df19269e22441eb220ae46293e14aea6b69582745"
+
+[update]
+[update.modrinth]
+mod-id = "3lx16XQT"
+version = "Iobrd5Kt"

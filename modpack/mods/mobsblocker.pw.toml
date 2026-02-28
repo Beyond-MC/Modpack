@@ -1,6 +1,6 @@
 name = "Mobs Blocker"
 filename = "mobs_blocker-1.2.0-forge-1.20.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/W0JWCVNo/versions/Af1MgWby/mobs_blocker-1.2.0-forge-1.20.1.jar"

@@ -1,0 +1,21 @@
+{
+	"sky_objects": [
+		"twilight",
+		"stars",
+		"stars_1",
+		"stars_2",
+		"stars_3",
+    "ikos",
+    "week",
+		"star"
+	],
+    "fog_color": "#b3ccfd",
+    "sky_color": "#83a4fd",
+    "twilight_alpha": "0",
+    "clouds": {},
+    "fog": {
+      "has_thick_fog": false,
+      "fog_start": "fogStart",
+      "fog_end": "fogEnd"
+    }
+}

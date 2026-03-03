@@ -1,0 +1,22 @@
+{
+  "texture": "celestial:sky/overworld/objects/star.png",
+  "display": {
+    "scale": "2.5",
+    "pos_x": "0",
+    "pos_y": "0",
+    "pos_z": "0",
+    "distance": "200"
+  },
+  "rotation": {
+    "degrees_x": "180",
+    "degrees_y": "0",
+    "degrees_z": "-1.6",
+    "base_degrees_x": "-90",
+    "base_degrees_z": "-90"
+  },
+  "properties": {
+    "has_moon_phases": false,
+    "alpha": "((1 - rainAlpha))",
+    "blend": false
+  }
+}

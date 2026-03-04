@@ -1,0 +1,13 @@
+name = "Cluttered"
+filename = "cluttered-[Forge]-3.0.3-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/UnAEo77V/versions/ROs8Cnzz/cluttered-%5BForge%5D-3.0.3-1.20.1.jar"
+hash-format = "sha512"
+hash = "c150e4bd8564ed06655bb3d7b49157c925626f6ac05774b24e50b70dd748914947c6e33428415659272aebb05f8e30f329d0ae22b4f53d8209893cdbe6ba6163"
+
+[update]
+[update.modrinth]
+mod-id = "UnAEo77V"
+version = "ROs8Cnzz"

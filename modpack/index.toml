@@ -1772,6 +1772,11 @@ hash = "e11ddca37c00c8cdf8ee89c7b59df544f50966d2d6c5b016916f023afb98c02e"
 metafile = true
 
 [[files]]
+file = "mods/axiom.pw.toml"
+hash = "51904b724fd8762c97dcb28daefe5940796494ea609fafe652f4d2332abb69f1"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "94910057d9bf56c60c393a3cfe745f78c971005d74d9992462be7527c13315c2"
 metafile = true
@@ -1869,6 +1874,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "e3dd03e7fec88831974857e2cdded54dd5c5bdcaa3f6d6248c2800e82db4dd41"
+metafile = true
+
+[[files]]
+file = "mods/cluttered.pw.toml"
+hash = "2975796aab1e74baebcaae08d49dc0638b467fe742e0affdf8a84e17cf5a13c7"
 metafile = true
 
 [[files]]

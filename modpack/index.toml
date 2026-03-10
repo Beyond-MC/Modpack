@@ -2212,6 +2212,11 @@ hash = "5b1ccd88254480f6b73358491b4ef1eff859cffdd6784dea4d1a89c8fdf74601"
 metafile = true
 
 [[files]]
+file = "mods/handcrafted.pw.toml"
+hash = "db495b3ac268709a2ba673bfe220b10257fb7dae549f94bfbd539617d571f131"
+metafile = true
+
+[[files]]
 file = "mods/haven-animal-seeds.pw.toml"
 hash = "bf8755d15e2ba7001460a1b9bc086c081e3bfbca76064073505d2899c3e22518"
 metafile = true

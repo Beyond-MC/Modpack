@@ -1,0 +1,13 @@
+name = "Dawn of Time"
+filename = "dawnoftimebuilder-forge-1.20.1-1.5.44.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/RgWXq0La/versions/VrdiArG2/dawnoftimebuilder-forge-1.20.1-1.5.44.jar"
+hash-format = "sha512"
+hash = "2923338052630bb449c0535187f6adafdb63e80233076fde5ac0601628c285114fefa6d1cd26af39e81eb54c95352183a9214adfabd7d43649c71d95dd504e84"
+
+[update]
+[update.modrinth]
+mod-id = "RgWXq0La"
+version = "VrdiArG2"

@@ -1,0 +1,13 @@
+name = "Aperture Innovations - Portal Gun"
+filename = "aperture_innovations-forge-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/GsmkmPdY/versions/2l6XWOJT/aperture_innovations-forge-1.1.1.jar"
+hash-format = "sha512"
+hash = "8227250422748d0d5560ab4317f047265fe7e2a649361db0f482c06bbc616c410715ced2d0efb88535b98e2cdb346ad35b80c076123fef244dac6c98cfc1fdf9"
+
+[update]
+[update.modrinth]
+mod-id = "GsmkmPdY"
+version = "2l6XWOJT"

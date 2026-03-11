@@ -3,11 +3,11 @@ filename = "manors_bounty-0.3.2.1-forge-1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "e9e1740e9a6e71d037641121737d9172d53cc0be"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/4vM781yC/versions/2mrmKPxo/manors_bounty-0.3.2.1-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "6e17a7cb09490097632a9d2ea5bfbe78454edc678ef516399b8a181fdba48277e92ad60f1c78a29505f443ad895e80fb00809378a4325f55fa4919f4dd87aeb6"
 
 [update]
-[update.curseforge]
-file-id = 7699809
-project-id = 1164929
+[update.modrinth]
+mod-id = "4vM781yC"
+version = "2mrmKPxo"

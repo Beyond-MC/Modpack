@@ -27,7 +27,7 @@ PlayerEvents.tick(event => {
  
   const helmet = player.getItemBySlot("head")
   if (!helmet || helmet.empty) return
-  if (helmet.id !== "minecraft:diamond_helmet") return
+  if (helmet.id !== "minecraft:player_head") return
 
 
   event.server.runCommandSilent(

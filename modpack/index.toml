@@ -2227,6 +2227,11 @@ hash = "bf8755d15e2ba7001460a1b9bc086c081e3bfbca76064073505d2899c3e22518"
 metafile = true
 
 [[files]]
+file = "mods/iam-music-player-renewed.pw.toml"
+hash = "8011dad1513eab02fcd34430dd029d2c03488967c5c66098f92bc640fffea195"
+metafile = true
+
+[[files]]
 file = "mods/immersive-melodies.pw.toml"
 hash = "fa721b8fd8604fdc63cfc36f5863504cabbf86bc34b6cbaebfcb27a445dfa5e0"
 metafile = true
@@ -2484,6 +2489,11 @@ metafile = true
 [[files]]
 file = "mods/orbital-railgun-reforged.pw.toml"
 hash = "3f80f8fc3479ab6b084d9abbe633947ea6229ce0ceca4bebdad2ef15a32fad1f"
+metafile = true
+
+[[files]]
+file = "mods/otyacraft-engine-renewed.pw.toml"
+hash = "5f20de966f9dbf4572abc779f422331d8796401a80550be53882113df719cad9"
 metafile = true
 
 [[files]]

@@ -2412,11 +2412,6 @@ hash = "c534e11b09f293b8968ddec3b935f3b5ac4c31821801d32ed2ce94d47bece6a7"
 metafile = true
 
 [[files]]
-file = "mods/minescript.pw.toml"
-hash = "e88775ee1abce75f4bfa49a27d13740ebc607649e1413c15a71c29b1a75ec2bd"
-metafile = true
-
-[[files]]
 file = "mods/mobsblocker.pw.toml"
 hash = "662f910ca8645898bb740d80776b1fb320b73f13272b024fa6df2bdb057c7848"
 metafile = true

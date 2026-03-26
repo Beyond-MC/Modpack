@@ -99,6 +99,14 @@ var SHIELDS = [
     "alexscaves:resistor_shield",
 ]
 
+var BACKPACKS = [
+    "sophisticatedbackpacks:refill_upgrade",
+    "sophisticatedbackpacks:advanced_refill_upgrade",
+    "sophisticatedbackpacks:everlasting_upgrade",
+    "sophisticatedbackpacks:alchemy_upgrade",
+    "sophisticatedbackpacks:advanced_alchemy_upgrade"
+]
+
 var MISC = [
   "alexscaves:dreadbow",
   "cyberspace:terminal",
@@ -122,6 +130,7 @@ var CONSTANTS = [
     KEEPER,
     LIGHTSABERS,
     SHIELDS,
+    BACKPACKS,
     MISC
 ];
 

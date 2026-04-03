@@ -1,0 +1,13 @@
+name = "MOA DECOR: BATH"
+filename = "MOAdecor BATH 1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "857d3ff8173cdacb0aa45964a8ebcb9a4167c8a7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4731923
+project-id = 853639

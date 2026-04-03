@@ -1,0 +1,13 @@
+name = "Smoking Stuff - A Wizard's Hobby"
+filename = "smokingstuff-1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KsfxPTVy/versions/gdu4lCHM/smokingstuff-1.1.jar"
+hash-format = "sha512"
+hash = "a8418cc2b68b615a851a0f228a4ea4cf82d2e909d5eb78658afcd1ad503a4183059227d42d747478ff0b5707f5204a850cc90d040d970ed4df9bfb10368f2748"
+
+[update]
+[update.modrinth]
+mod-id = "KsfxPTVy"
+version = "gdu4lCHM"

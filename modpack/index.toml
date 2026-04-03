@@ -2342,6 +2342,11 @@ hash = "eedc90c3b93d57bd04f6e6b38d9817227f7e502db5327bb0155fb91f64ee8302"
 metafile = true
 
 [[files]]
+file = "mods/lets-do-vinery.pw.toml"
+hash = "94255c24694569e26337079e3ff81165b4e914ab427d4dab0e1d78b65325ba9f"
+metafile = true
+
+[[files]]
 file = "mods/lootjs.pw.toml"
 hash = "dac76b57fd114d37956011ad054aab6b5e86f1fd9e308da534bff0ca69a78989"
 metafile = true
@@ -2409,6 +2414,11 @@ metafile = true
 [[files]]
 file = "mods/minecraft-cursor.pw.toml"
 hash = "c534e11b09f293b8968ddec3b935f3b5ac4c31821801d32ed2ce94d47bece6a7"
+metafile = true
+
+[[files]]
+file = "mods/moa-decor-bath.pw.toml"
+hash = "de10d0cf7c0dee792f2a551143b6eba59b6992de85d7df06febb07c7e0f1a6b8"
 metafile = true
 
 [[files]]
@@ -2629,6 +2639,11 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "7451fffd4702db08b9d04aca87ec103c1694e2370bd8c7ced7e379a9f1e10816"
+metafile = true
+
+[[files]]
+file = "mods/smoking-stuff-a-wizards-hobby.pw.toml"
+hash = "0b7b95105039ddae0aa64d9a31b85d2997829901c2bb725d29b8c5a7fe747c75"
 metafile = true
 
 [[files]]

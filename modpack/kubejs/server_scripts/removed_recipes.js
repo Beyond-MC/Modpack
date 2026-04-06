@@ -97,6 +97,7 @@ var SHIELDS = [
     "species:ricoshield",
     "the_bumblezone:honey_crystal_shield",
     "alexscaves:resistor_shield",
+    "more_critters:biting_shield"
 ]
 
 var BACKPACKS = [

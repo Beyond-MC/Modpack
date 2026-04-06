@@ -1,0 +1,10 @@
+{
+	"sky_objects": [],
+    "fog_color": "#000000",
+    "sky_color": "#000000",
+    "twilight_alpha": "0",
+    "clouds": {},
+    "fog": {
+      "has_thick_fog": false
+    }
+}

@@ -2362,6 +2362,11 @@ hash = "00f3f21762720f03dd0f1d60449d2a5d3a0104989223f4efa81401d94b8f3358"
 metafile = true
 
 [[files]]
+file = "mods/lucky77.pw.toml"
+hash = "c4b3d0a8c5879008f6a39882859bdd862a5f1b27a31e61930e7a44e719138d3a"
+metafile = true
+
+[[files]]
 file = "mods/lyivxs-core.pw.toml"
 hash = "430924f5fd3e91e598f5a47776299176c12146a50b317a015f2f176b79b49a5c"
 metafile = true

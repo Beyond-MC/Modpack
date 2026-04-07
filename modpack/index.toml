@@ -1837,11 +1837,6 @@ hash = "a613f5d2df911fea606968bbdb56eebfd05ac02ada846cf0d2e56e72345d9338"
 metafile = true
 
 [[files]]
-file = "mods/casinocraft.pw.toml"
-hash = "c36681779db37e0a49a0747c167bfc7cb869b0c796c135252a2368019f7a0fc0"
-metafile = true
-
-[[files]]
 file = "mods/cave-dweller-evolved.pw.toml"
 hash = "fa52f73b4a98378092e9194dc325e98f9339c2855d1ada185e8c3ba004ea39cb"
 metafile = true
@@ -2359,11 +2354,6 @@ metafile = true
 [[files]]
 file = "mods/lootr.pw.toml"
 hash = "00f3f21762720f03dd0f1d60449d2a5d3a0104989223f4efa81401d94b8f3358"
-metafile = true
-
-[[files]]
-file = "mods/lucky77.pw.toml"
-hash = "c4b3d0a8c5879008f6a39882859bdd862a5f1b27a31e61930e7a44e719138d3a"
 metafile = true
 
 [[files]]

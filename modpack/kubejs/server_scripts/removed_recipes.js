@@ -118,7 +118,8 @@ var MISC = [
   /dimdoors:item_ag_dim_.*/,
   /scannable:.*/,
   /transmog:.*/,
-  /frog_dweller:.*/
+  /frog_dweller:.*/,
+  "tempad:portal_projector"
 ]
 
 var CONSTANTS = [

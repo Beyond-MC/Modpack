@@ -2427,6 +2427,11 @@ hash = "dc906a68268eaba1a7690ddda6931e752b72aba629eec3407f252ecee76b70ea"
 metafile = true
 
 [[files]]
+file = "mods/monsters-girls-secrets-of-mermaids.pw.toml"
+hash = "53e5d0a86bdb956cd42c5eb7089918b194b4a71219b6a3fa59b82a17ab1e3586"
+metafile = true
+
+[[files]]
 file = "mods/moonlight.pw.toml"
 hash = "02d8f73c4d1f35c4cd877ff6c988e2ea5fe35080e77a7a097b17c00233e62abc"
 metafile = true

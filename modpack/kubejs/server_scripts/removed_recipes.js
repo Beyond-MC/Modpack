@@ -119,7 +119,8 @@ var MISC = [
   /scannable:.*/,
   /transmog:.*/,
   /frog_dweller:.*/,
-  "tempad:portal_projector"
+  "tempad:portal_projector",
+  "beachparty:radio"
 ]
 
 var CONSTANTS = [

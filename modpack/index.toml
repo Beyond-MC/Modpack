@@ -1827,6 +1827,11 @@ hash = "9bbe75f3b0c2abdde802c86f118f4b746bd057a62bb3ae23c40fcaa147d816ae"
 metafile = true
 
 [[files]]
+file = "mods/bytebuddies.pw.toml"
+hash = "4422657b3eff4fb9077c3eb3a296eee67184d0775cb99dd586373df24a012b43"
+metafile = true
+
+[[files]]
 file = "mods/camerapture.pw.toml"
 hash = "bb4a4e8b00d292b5a6bfe14d57aa97eb6f3da7a04ece1eae7ac4ea4a5677db89"
 metafile = true
@@ -2754,6 +2759,11 @@ metafile = true
 [[files]]
 file = "mods/tree-harvester.pw.toml"
 hash = "d6ddde622109dc5072e84fc6493c44950314594864a74495d898bcefbd3f2e8b"
+metafile = true
+
+[[files]]
+file = "mods/turtlebois-core-library.pw.toml"
+hash = "44af1bf24ab37044e18cd45d1b322e492c7f23f6f4235ecabd29074db2c0193b"
 metafile = true
 
 [[files]]

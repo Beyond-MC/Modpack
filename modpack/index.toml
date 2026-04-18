@@ -1823,7 +1823,7 @@ metafile = true
 
 [[files]]
 file = "mods/building-but-better.pw.toml"
-hash = "9bbe75f3b0c2abdde802c86f118f4b746bd057a62bb3ae23c40fcaa147d816ae"
+hash = "e71f080f73318d3ceee8ba87682d5fb3413ad743617f7c528cc72210064be892"
 metafile = true
 
 [[files]]
@@ -2449,6 +2449,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "679fa8f3b49b9ed3fbcb29d6ccdb99bce465faa01f9cec000464ac8d4fbe134f"
+metafile = true
+
+[[files]]
+file = "mods/nbt-autocomplete.pw.toml"
+hash = "997cb276aa38c339f56b6c08107410ff908d9a52b2459184c365107baf636155"
 metafile = true
 
 [[files]]

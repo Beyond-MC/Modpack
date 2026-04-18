@@ -10,3 +10,9 @@ BlockEvents.modification(e => {
     block.lightEmission = 9
   })
 })
+
+BlockEvents.modification(e => {
+  e.modify('ls_furniture:chopping_board', block => {
+    block.destroySpeed = 4
+  }) 
+})

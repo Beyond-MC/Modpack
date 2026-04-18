@@ -80,9 +80,8 @@ ItemEvents.tooltip(event => {
   ])
 
   event.add('supplementaries:cage', [
-    Text.gold("[  Cows do not spawn here!!  ]"),
-    Text.gold("[  You are in an alien planet ]"),
-    Text.gold("[  (But they were abducted) ]")
+    Text.gold("[  Can't be used to capture animals!  ]"),
+    Text.gold("[  Try a capture trap instead ]")
   ])
 
   event.add('supplementaries:jar', [

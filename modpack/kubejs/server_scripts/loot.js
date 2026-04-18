@@ -13,4 +13,6 @@ LootJS.modifiers(event => {
         ctx.addLoot("minecraft:netherite_upgrade_smithing_template")
       }
     })
+        event.addLootTableModifier("ls_furntiture:chopping_board")
+         .addLoot("ls_furntiture:chopping_board")
 })

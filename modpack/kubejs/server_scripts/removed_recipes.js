@@ -1,6 +1,12 @@
 ////////////////////////////////////
 //////     CONSTANTS       /////////
 ////////////////////////////////////
+var ROCKETS = [
+    "ad_astra:tier_2_rocket",
+    "ad_astra:tier_3_rocket",
+    "ad_astra:tier_4_rocket"
+]
+
 var GUNS = [
     "scguns:prima_materia",
     "scguns:sterilizer",
@@ -87,9 +93,12 @@ var KEEPER = [
     "neonsentrykeeper:capture_global_chip_charged"
 ]
 
-var LIGHTSABERS = [
-    "lightsabers:lightsaber_vizsla",
-    "lightsabers:circuit_netherite"
+var BACKPACKS = [
+    "sophisticatedbackpacks:refill_upgrade",
+    "sophisticatedbackpacks:advanced_refill_upgrade",
+    "sophisticatedbackpacks:everlasting_upgrade",
+    "sophisticatedbackpacks:alchemy_upgrade",
+    "sophisticatedbackpacks:advanced_alchemy_upgrade"
 ]
 
 var SHIELDS = [
@@ -100,12 +109,42 @@ var SHIELDS = [
     "more_critters:biting_shield"
 ]
 
-var BACKPACKS = [
-    "sophisticatedbackpacks:refill_upgrade",
-    "sophisticatedbackpacks:advanced_refill_upgrade",
-    "sophisticatedbackpacks:everlasting_upgrade",
-    "sophisticatedbackpacks:alchemy_upgrade",
-    "sophisticatedbackpacks:advanced_alchemy_upgrade"
+var CRAB = [
+    // red
+    "mg_secrets_of_mermaids:red_crab_armor_helmet",
+    "mg_secrets_of_mermaids:red_crab_armor_chestplate",
+    "mg_secrets_of_mermaids:red_crab_armor_leggings",
+    "mg_secrets_of_mermaids:red_crab_armor_boots",
+
+    // violet
+    "mg_secrets_of_mermaids:violet_crab_armor_helmet",
+    "mg_secrets_of_mermaids:violet_crab_armor_chestplate",
+    "mg_secrets_of_mermaids:violet_crab_armor_leggings",
+    "mg_secrets_of_mermaids:violet_crab_armor_boots",
+
+    // purple
+    "mg_secrets_of_mermaids:purple_crab_armor_helmet",
+    "mg_secrets_of_mermaids:purple_crab_armor_chestplate",
+    "mg_secrets_of_mermaids:purple_crab_armor_leggings",
+    "mg_secrets_of_mermaids:purple_crab_armor_boots",
+
+    // green
+    "mg_secrets_of_mermaids:green_crab_armor_helmet",
+    "mg_secrets_of_mermaids:green_crab_armor_chestplate",
+    "mg_secrets_of_mermaids:green_crab_armor_leggings",
+    "mg_secrets_of_mermaids:green_crab_armor_boots",
+
+    // dark_blue
+    "mg_secrets_of_mermaids:dark_blue_crab_armor_helmet",
+    "mg_secrets_of_mermaids:dark_blue_crab_armor_chestplate",
+    "mg_secrets_of_mermaids:dark_blue_crab_armor_leggings",
+    "mg_secrets_of_mermaids:dark_blue_crab_armor_boots",
+
+    // lime
+    "mg_secrets_of_mermaids:lime_crab_armor_helmet",
+    "mg_secrets_of_mermaids:lime_crab_armor_chestplate",
+    "mg_secrets_of_mermaids:lime_crab_armor_leggings",
+    "mg_secrets_of_mermaids:lime_crab_armor_boots"
 ]
 
 var MISC = [
@@ -118,12 +157,15 @@ var MISC = [
   /dimdoors:item_ag_dim_.*/,
   /scannable:.*/,
   /transmog:.*/,
-  /frog_dweller:.*/,
   "tempad:portal_projector",
-  "beachparty:radio"
+  "beachparty:radio",
+  "crc:cyborg_eye",
+  "lightsabers:lightsaber_vizsla",
+  "lightsabers:circuit_netherite"
 ]
 
 var CONSTANTS = [
+    ROCKETS,
     GUNS,
     MEKANISM,
     ANIMAL_SEEDS,
@@ -131,11 +173,17 @@ var CONSTANTS = [
     CAGES,
     WIRES,
     KEEPER,
-    LIGHTSABERS,
-    SHIELDS,
     BACKPACKS,
+    SHIELDS,
+    CRAB,
     MISC
 ];
+
+var UNLOOTABLE = [
+    "minecraft:golden_pickaxe",
+    "minecraft:mooshroom_spawn_egg",
+    "minecraft:golden_helmet"
+]
 
 ////////////////////////////////////
 //////  REMOVING  RECIPES  /////////
@@ -144,6 +192,7 @@ ServerEvents.recipes(event => {
     CONSTANTS.forEach(item => {
         event.remove({ output: item });
     });
+    //event.remove({ output: Item.of('minecraft:enchanted_book').enchant('dimdoors:string_theory', 1) })
 })
 
 //////////////////////////////////////////////////////
@@ -156,10 +205,14 @@ ServerEvents.tags(`item`, event => {
 })
 
 //////////////////////////////////////////////////////
-/////////   REMOVING ITEMS FR LOOTTABLES  //////////
+/////////   REMOVING ITEMS FROM LOOTTABLES  //////////
 //////////////////////////////////////////////////////
 LootJS.modifiers((event) => {
     event.addLootTypeModifier(LootType.BLOCK).removeLoot(CONSTANTS);
     event.addLootTypeModifier(LootType.ENTITY).removeLoot(CONSTANTS);
     event.addLootTypeModifier(LootType.CHEST).removeLoot(CONSTANTS);
+
+    event.addLootTypeModifier(LootType.BLOCK).removeLoot(UNLOOTABLE);
+    event.addLootTypeModifier(LootType.ENTITY).removeLoot(UNLOOTABLE);
+    event.addLootTypeModifier(LootType.CHEST).removeLoot(UNLOOTABLE);
 })

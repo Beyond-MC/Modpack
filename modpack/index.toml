@@ -1782,6 +1782,11 @@ hash = "51904b724fd8762c97dcb28daefe5940796494ea609fafe652f4d2332abb69f1"
 metafile = true
 
 [[files]]
+file = "mods/bad-mobs.pw.toml"
+hash = "ad277ad1cc85c6dce61a2ab784dfcb54b5c522a824f06cb94339bf32bdb5d52a"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "94910057d9bf56c60c393a3cfe745f78c971005d74d9992462be7527c13315c2"
 metafile = true
@@ -2422,11 +2427,6 @@ hash = "de10d0cf7c0dee792f2a551143b6eba59b6992de85d7df06febb07c7e0f1a6b8"
 metafile = true
 
 [[files]]
-file = "mods/mobsblocker.pw.toml"
-hash = "662f910ca8645898bb740d80776b1fb320b73f13272b024fa6df2bdb057c7848"
-metafile = true
-
-[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "dc906a68268eaba1a7690ddda6931e752b72aba629eec3407f252ecee76b70ea"
 metafile = true
@@ -2623,7 +2623,7 @@ metafile = true
 
 [[files]]
 file = "mods/security-craft.pw.toml"
-hash = "e1ba99a16736c1f1cf3f88f5f88be42b529922a066ca4c1f67384c5b69d37a4b"
+hash = "ab891d8deeedfbdc6af5c0dfd4aa5e6811c6ca16afd6064129c48f2d9546dde0"
 metafile = true
 
 [[files]]

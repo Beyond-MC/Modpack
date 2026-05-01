@@ -1753,7 +1753,7 @@ metafile = true
 
 [[files]]
 file = "mods/aperture-innovations.pw.toml"
-hash = "0c3387816156440609a2a9098ecce34c84abafb63f40b2e62e89e92f6486e4ea"
+hash = "3e7c8c5a3023c870b2e42a59984be598bdddb7d91c4b7f3bec80366834ef1d5d"
 metafile = true
 
 [[files]]
@@ -2687,18 +2687,13 @@ hash = "ff765c8249ef581bc6eef2ab9304f519aeec2552dc7a57760b7cd88eadd2685d"
 metafile = true
 
 [[files]]
-file = "mods/stylish-effects.pw.toml"
-hash = "d81aae3d0916b3d60201f43b2eab687600991c36fa6959b61442bf378419ade0"
-metafile = true
-
-[[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
 hash = "b969799c17defc1e7c76e4605557c9d32802a0004a5e45b7044e85d3d9c43345"
 metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "72b2c23a2e9ca7ca0046bf1518851b4d409b489e8adac33d34651eddfc332604"
+hash = "168b3ee3fa2fe18f712c593d9d90e8b3a8a6a10564376af98bcc6f9719506641"
 metafile = true
 
 [[files]]

@@ -2272,6 +2272,11 @@ hash = "0fbcc8cf03336e6bed425e2115fc4ff1a3a05be5c655228b305e70380eb08b57"
 metafile = true
 
 [[files]]
+file = "mods/jei.pw.toml"
+hash = "db5b0e49607113eb8740838753460e6d2f8c718828fcc52b9fefd13adc4e4cae"
+metafile = true
+
+[[files]]
 file = "mods/jinxedlib.pw.toml"
 hash = "05e33822164b9f498943e51e9502aefadb504ec1551174bad7e96e8066d2f35a"
 metafile = true
@@ -2734,11 +2739,6 @@ metafile = true
 [[files]]
 file = "mods/the-bumblezone.pw.toml"
 hash = "6f750aa32487a8cc89ebbaf0eed062c23209fe61c04540b42f2dd68e7d379886"
-metafile = true
-
-[[files]]
-file = "mods/tmrv.pw.toml"
-hash = "ab79dd5c567f7c409b95bef167961b58ac95531be8ffd0542190cb17701db6c0"
 metafile = true
 
 [[files]]

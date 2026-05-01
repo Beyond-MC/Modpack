@@ -2452,11 +2452,6 @@ hash = "679fa8f3b49b9ed3fbcb29d6ccdb99bce465faa01f9cec000464ac8d4fbe134f"
 metafile = true
 
 [[files]]
-file = "mods/nbt-autocomplete.pw.toml"
-hash = "997cb276aa38c339f56b6c08107410ff908d9a52b2459184c365107baf636155"
-metafile = true
-
-[[files]]
 file = "mods/nbtedit-reborn.pw.toml"
 hash = "fc4dec08c663c6ce39695549d0ecfc33146687223168e372753f6ed40eb8d777"
 metafile = true

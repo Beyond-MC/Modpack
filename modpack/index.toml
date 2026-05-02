@@ -1752,11 +1752,6 @@ hash = "64bcde890c30378ebb2f305268bd76c412e1f5d4709896e97449cbe95b653fe5"
 metafile = true
 
 [[files]]
-file = "mods/aperture-innovations.pw.toml"
-hash = "3e7c8c5a3023c870b2e42a59984be598bdddb7d91c4b7f3bec80366834ef1d5d"
-metafile = true
-
-[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "793693a85f3c87d4e899ee0c58deabc53690bf5a70f17343f28fd5063ce8a1e1"
 metafile = true
@@ -1829,11 +1824,6 @@ metafile = true
 [[files]]
 file = "mods/building-but-better.pw.toml"
 hash = "e71f080f73318d3ceee8ba87682d5fb3413ad743617f7c528cc72210064be892"
-metafile = true
-
-[[files]]
-file = "mods/bytebuddies.pw.toml"
-hash = "4422657b3eff4fb9077c3eb3a296eee67184d0775cb99dd586373df24a012b43"
 metafile = true
 
 [[files]]
@@ -2443,7 +2433,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "02d8f73c4d1f35c4cd877ff6c988e2ea5fe35080e77a7a097b17c00233e62abc"
+hash = "e62ad317cabfbe4a6e62a77f391ae95c6e955df496cef5278fb4ed7760908ab3"
 metafile = true
 
 [[files]]
@@ -2518,7 +2508,7 @@ metafile = true
 
 [[files]]
 file = "mods/packet-fixer.pw.toml"
-hash = "3ab8970e80d25686ebe4bf0747a96d116ab961ce6974aa815cc9fcbce5553b62"
+hash = "ef0c8813eef47e8ffdce023dfee08152a5099817960dce86623b9a21e8b14be2"
 metafile = true
 
 [[files]]
@@ -2754,11 +2744,6 @@ metafile = true
 [[files]]
 file = "mods/tree-harvester.pw.toml"
 hash = "d6ddde622109dc5072e84fc6493c44950314594864a74495d898bcefbd3f2e8b"
-metafile = true
-
-[[files]]
-file = "mods/turtlebois-core-library.pw.toml"
-hash = "44af1bf24ab37044e18cd45d1b322e492c7f23f6f4235ecabd29074db2c0193b"
 metafile = true
 
 [[files]]

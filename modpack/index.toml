@@ -2232,6 +2232,16 @@ hash = "fa721b8fd8604fdc63cfc36f5863504cabbf86bc34b6cbaebfcb27a445dfa5e0"
 metafile = true
 
 [[files]]
+file = "mods/immersive-vehicles-official-content-pack.pw.toml"
+hash = "374db2a55a974e6d17abe135572e1829de6ce2265315f4fbef2f480ac508ce25"
+metafile = true
+
+[[files]]
+file = "mods/immersive-vehicles.pw.toml"
+hash = "704fad4989730378eb427751d32a53d1e5bd8fb8ef5a2677a766cca404b519a1"
+metafile = true
+
+[[files]]
 file = "mods/infinity-golem-boss-fight-(beta).pw.toml"
 hash = "34d3a02881b982f067d24d5290cf276d43b4aab96d7bb3b057b12fac1dbafae7"
 metafile = true
